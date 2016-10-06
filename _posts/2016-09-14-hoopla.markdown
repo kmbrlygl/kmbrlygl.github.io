@@ -34,6 +34,6 @@ The three main features of our app were:
 
 From there, I sketched wireframes for each screen that we needed to present our product. We then started designing the visual look of our app. My partner and I had two different ideas for the visual design: mine steered towards bright colors evoking excitement, while Stephanie took a minimalistic and modern route. In the end, we both agreed on a visual design that melded the best and most relevant aspects of our aesthetics: modern, fun and user friendly.
 
-![Hoopla Home](/assets/Hoopla_final.jpg)
+![Hoopla Home](/assets/hoopla_final.jpg)
 
 [View our prototype here!](https://marvelapp.com/ded70e/screen/10584891 "Hoopla Prototype")
