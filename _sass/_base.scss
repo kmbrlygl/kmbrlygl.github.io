@@ -57,6 +57,13 @@ img[alt="Final"] {
   margin: auto;
 }
 
+img[alt="MSLogoIdea"] {
+  max-width: 100%;
+  display: block-inline;
+  margin: auto;
+  padding-left: 10px;
+}
+
 img[alt="about"] {
   max-width: 50%;
   display: block;
@@ -144,14 +151,14 @@ a {
  * Blockquotes
  */
 blockquote {
-    font-family: "freight-macro-pro-i4", "freight-macro-pro";
+    font-family: $base-font-family;
     font-style: italic;
     font-weight: 400;
     color: $grey-color;
     border-left: 0px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: 1.2em;
-    letter-spacing: 0px;
+    font-size: 2em;
+    letter-spacing: 1px;
 
     > :last-child {
         margin-bottom: 0;
@@ -240,3 +247,11 @@ pre {
         }
     }
 }
+
+/**
+ * floating img
+ **/
+ .left {
+   float: left;
+   padding: 0 0 $spacing-unit 0;
+ }

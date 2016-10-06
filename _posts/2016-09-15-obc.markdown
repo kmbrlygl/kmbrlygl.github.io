@@ -6,7 +6,7 @@ categories: artdirection
 thumbnail: assets/obc_thumb.jpg
 caption: "One Bella Casa (OBC) is an online home decor company. I worked in-house and did the art direction on their product catalogs."
 type: "In house"
-intro: "Layout design, photographic direction, and product design for an online home decor company."
+intro: "I worked on the layout design, photographic direction, and textile product design for an online home decor company."
 ---
 # Role
 Print design, visual design, art direction

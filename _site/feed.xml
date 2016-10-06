@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kimberly Gail, visual designer</title>
-    <description>Digital stomping grounds of a visual designer and curious wanderer, Kimberly Gail.
+    <description>Digital stomping grounds of a visual designer, Kimberly Gail.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Oct 2016 20:58:36 -0700</pubDate>
-    <lastBuildDate>Wed, 05 Oct 2016 20:58:36 -0700</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2016 01:13:48 -0700</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2016 01:13:48 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -77,18 +77,19 @@
 
 &lt;p&gt;After deciding on our app’s name, I immediately started sketching out some ideas for logo. I started fleshing out the the ideas I liked best on Illustrator, and getting feedback from the team.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/mailsift_sketches.jpg&quot; alt=&quot;ms_sketches&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;sketches--digital-drafts&quot;&gt;Sketches → Digital drafts&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/mailsift_logos-04.png&quot; alt=&quot;mslogoid&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;left&quot; src=&quot;/assets/mailsift_sketches.jpg&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mailsift_logos-08.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;
+&lt;img src=&quot;/assets/mailsift_logos-09.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/mailsift_logos-05.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;
-&lt;img src=&quot;/assets/mailsift_logos-06.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/mailsift_logos-07.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;
-&lt;img src=&quot;/assets/mailsift_logos-08.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;
-&lt;img src=&quot;/assets/mailsift_logos-09.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/mailsift_logos-06.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/mailsift_logos-07.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;
+&lt;img src=&quot;/assets/mailsift_logos-04.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;final-logo-and-ui&quot;&gt;Final logo and UI&lt;/h1&gt;
-&lt;p&gt;We decided on this logo in the end, and from there, I created a UI based on the colors used and to that demonstrated friendliness, fun, and ease-of-use that we wanted to capture.&lt;/p&gt;
+&lt;p&gt;We decided on a logo that combined all our favorite parts of the drafts I created. From there, I created a UI based on the colors used and to that demonstrated friendliness, fun, and ease-of-use that we wanted to capture.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/mailsift_final_logo.png&quot; alt=&quot;Final&quot; /&gt;&lt;/p&gt;
 
@@ -152,10 +153,10 @@
       <item>
         <title>Hoopla Mobile App</title>
         <description>&lt;h1 id=&quot;role&quot;&gt;Role&lt;/h1&gt;
-&lt;p&gt;Design research, visuals, user interface, protoyping&lt;/p&gt;
+&lt;p&gt;Design research, visuals, user interface, prototyping&lt;/p&gt;
 
 &lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
-&lt;p&gt;For my final for the Design for Understanding course, we were tasked to reflect on our college experience, and the things we wished we had known about as freshmen. Stephanie Pi, my design partner, and I shared the same idea that our experiences outside of the classroom, through clubs or events we attended, were what enriched our lives the most. We decided we wanted to connect students to the organizations, events and resources available to them at their university.&lt;/p&gt;
+&lt;p&gt;In my Design for Understanding course, we were tasked to reflect on our college experience, and the things we wished we had known about as freshmen. Stephanie Pi, my design partner, and I shared the same idea that our experiences outside of the classroom, through clubs or events we attended, were what enriched our lives the most. We decided we wanted to connect students to the organizations, events and resources available to them at their university.&lt;/p&gt;
 
 &lt;h1 id=&quot;challenge&quot;&gt;Challenge&lt;/h1&gt;
 &lt;p&gt;Due to the sheer abundance of of organizations, events and resources in most colleges, it is not as easily accessible as one may think to get involved in their college community. We sought out to create an interactive phone app that organizes all the events,  organizations, and resources on campus. We wanted to make it fun, engaging, and useful.&lt;/p&gt;

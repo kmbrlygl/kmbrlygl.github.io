@@ -10,16 +10,12 @@ permalink: /about/
 
 <a href="/assets/klosenara-2016-resume.pdf">Resumé</a>
 
-Kimberly Gail is a visual designer looking to find her niche in the design world. She's interested in all facets of design, from lettering, typography, layouts, user research—really though, anything and everything pushing the boundaries or influencing change for the better. She believes in thoughtful and meaningful design solutions, and collaboration as means to get there.
+Kimberly Gail is a visual designer looking to find her niche in the design world. She's interested in all facets of design—from lettering, typography, layouts, user research—anything and everything pushing the boundaries or influencing change for the better. She believes in thoughtful and meaningful design solutions, and collaboration as means to get there.
 
-She's currently based [and loves living] in Sacramento, CA. <br>
-As a former Navy brat, she grew up in the Philippines, Japan, Texas, and Nevada.
-I guess she was just born with the travel bug. <br>
-On the right, she's sitting with terrible posture, looking all pensive and shit in Yorkshire, England in 2014.
+She currently [loves] living in Sacramento, CA.<br>
+She calls many places 'home' since she grew up as a Navy brat, living in the Philippines, Japan, Texas, Nevada and California. She was born with the travel bug, and has yet to shake it off. On the right, she sits (with terrible posture), looking all pensive and shit, gazing into the Yorkshire countryside in England.
 
-Off duty, she's either rushing off to catch a live show, practicing hand lettering, exploring the Midtown farmer's market, scarfing down Viet, Laos or Thai food, trying to recreate said foods at home, workin' on her fitness, tinkering around with HTML and CSS, or... maybe really just catching up her favorite TV shows (ahem, Doctor Who). 
-
-She also specializes in baking delicious chocolate banana nut bread and concocting an awesome pitcher of homemade sangria. Mmm.
+Off duty, she's either rushing off to catch a live show, practicing hand lettering or French, exploring the Midtown farmer's market, scarfing down Viet/Laos/Thai food, attempting to cook said foods, workin' on her fitness, concocting a pitcher of sangria, tinkering around with HTML and CSS, or... mostly, catching up her favorite TV shows.
 
 Thanks for reading!
 

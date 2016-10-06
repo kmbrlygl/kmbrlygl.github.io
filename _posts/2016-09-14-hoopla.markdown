@@ -6,13 +6,13 @@ categories: digital
 thumbnail: assets/hoopla_thumb.jpg
 caption: "Hoopla is a fun and engaging event organization app to help college students connect with student groups, events and resources available to them on campus."
 type: "School Project"
-intro: "Mobile app project in collaboration with Stephanie Pi (designer)"
+intro: "Hoopla is a mobile app project that helps college students connect with student groups, events and resources available to them on their campus."
 ---
 # Role
-Design research, visuals, user interface, protoyping
+Design research, visuals, user interface, prototyping
 
 # Background
-For my final for the Design for Understanding course, we were tasked to reflect on our college experience, and the things we wished we had known about as freshmen. Stephanie Pi, my design partner, and I shared the same idea that our experiences outside of the classroom, through clubs or events we attended, were what enriched our lives the most. We decided we wanted to connect students to the organizations, events and resources available to them at their university.
+In my Design for Understanding course, we were tasked to reflect on our college experience, and the things we wished we had known about as freshmen. Stephanie Pi, my design partner, and I shared the same idea that our experiences outside of the classroom, through clubs or events we attended, were what enriched our lives the most. We decided we wanted to connect students to the organizations, events and resources available to them at their university.
 
 # Challenge
 Due to the sheer abundance of of organizations, events and resources in most colleges, it is not as easily accessible as one may think to get involved in their college community. We sought out to create an interactive phone app that organizes all the events,  organizations, and resources on campus. We wanted to make it fun, engaging, and useful.
