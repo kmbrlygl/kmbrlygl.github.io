@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Reach 1600 Branding and Identity"
+date:   2016-09-17 23:31:49 -0700
+categories: branding
+thumbnail: assets/Reach1600_thumb.jpg
+caption: "Reach 1600 is a non-profit organization based in Oakland, CA that helps high school students succeed in the SAT."
+type: "Freelance"
+intro: "Branding and Identity for a new non-profit based in Oakland that helps high school students succeed in the SAT."
+---
+# Role
+logo design, print materials
+
+# Background
+Reach 1600 is a non-profit organization based in Oakland, CA whose goal is to to provide free SAT/college prep tutoring to high school students who come from low income, and multicultural backgrounds. Reach 1600 got in touch with me for design help because the founders are friends of mine whom I met in college.
+
+# Challenge
+Create a brand and identity that aligns with the views and values of the organization. I crafted a brand identity that conveyed empowerment, inspiration, openness and acceptance.
+
+# Process
+Reach 1600 was just conceived months prior to when I started working with them, so I had the liberty to create from scratch. I met up with my founders and discussed what message they wanted Reach 1600 to convey and how we planned to develop their brand.
+
+We decided on these specifications:
+
+1. Bright color scheme (specific color request: blues)
+2. Aesthetic: modern, simple, minimal
+3. Convey optimism, empowerment/inspiration, academia/higher education, openness and acceptance, and diversity
+
+# Initial Logos + Color schemes
+![Reach 1600 initial logos](/assets/r1600_logos.png)
+
+My first goal was to create a logo design. I started some quick sketches on paper to get ideas flowing, then started creating them on Illustrator. I drew my initial inspiration from look and feel of slab serifs used in college and university sweaters, the direction of growth, and the star icon reminiscent of the stickers you would get for doing a great job in primary school.
+
+![Reach 1600 color schemes](/assets/r1600_colors.png)
+
+# Final logo
+The director ended up liking the alternative version of the second logo the most. So I refined it a bit more, and finalized on this design:
+
+![Final](/assets/Reach_1600_final_logo.png)
+
+
+# Other projects
+I've produced other projects such as an email template for MailChimp, and a trifold brochure to attract donors to the program in order to help keep it free for the high school students admitted.
+
+![Reach 1600 newsletter](/assets/r1600_newsletters.jpg)
+
+![Reach 1600 brochure](/assets/R1600_brochure2.jpg)
+![Reach 1600 brochure](/assets/R1600_brochure.jpg)

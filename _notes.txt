@@ -1,0 +1,13 @@
+Color scheme:
+
+Tan/yellow background: #FEE5CC
+Salmon: F37866
+Medium purple: B02F6A
+Muted purple: A68185
+
+Font:
+headers:
+body:
+
+
+<p class="hanging"><sup>*</sup> Female extraordinaire wanting to take part in something greater than myself, where I can cultivate, iterate and discover thoughtful and fresh [af] design solutions in collaboration with great minds.
