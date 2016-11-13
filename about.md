@@ -10,11 +10,20 @@ permalink: /about/
 
 <a href="/assets/klosenara-2016-resume.pdf">Resumé</a>
 
+<<<<<<< HEAD
 Kimberly Gail is a visual designer looking to find her niche in the design world. She's interested in all facets of design—from lettering, typography, layouts, user research—anything and everything pushing the boundaries of her capabilities or influencing change for the better.
 
 Growing up as a Navy brat, she attributes 'home' to more than once place. She was born with the travel bug, and has yet to shake it off. Ask her about all the wonderful places she grew up in and where she's been! On the right, she sits (with terrible posture) pensively gazing into the English countryside.
 
 Off duty, she's either rushing off to catch a live show, practicing her French, trying or cooking new food, lifting weights, concocting a pitcher of sangria, or catching up on her favorite TV shows.
+=======
+Kimberly Gail is a visual designer looking to find her niche in the design world. She's interested in all facets of design—from lettering, typography, layouts, user research—anything and everything pushing the boundaries or influencing change for the better. She believes in thoughtful and meaningful design solutions, and collaboration as means to get there.
+
+She currently [loves] living in Sacramento, CA.<br>
+She calls many places 'home' since she grew up as a Navy brat, living in the Philippines, Japan, Texas, Nevada and California. She was born with the travel bug, and has yet to shake it off. On the right, she sits (with terrible posture), looking all pensive and shit, gazing into the Yorkshire countryside in England.
+
+Off duty, she's either rushing off to catch a live show, practicing hand lettering or French, exploring the Midtown farmer's market, scarfing down Viet/Laos/Thai food, attempting to cook said foods, workin' on her fitness, concocting a pitcher of sangria, tinkering around with HTML and CSS, or... mostly, catching up her favorite TV shows.
+>>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 
 Thanks for reading!
 
