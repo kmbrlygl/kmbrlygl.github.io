@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KMBRLYGL's Design Portfolio</title>
+    <description>Digital stomping grounds of a visual designer, Kimberly Gail.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 13 Nov 2016 00:32:38 -0800</pubDate>
+    <lastBuildDate>Sun, 13 Nov 2016 00:32:38 -0800</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Reach 1600 Branding and Identity</title>
+        <description>&lt;h1 id=&quot;role&quot;&gt;Role&lt;/h1&gt;
+&lt;p&gt;logo design, print materials&lt;/p&gt;
+
+&lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Reach 1600 is a non-profit organization based in Oakland, CA whose goal is to to provide free SAT/college prep tutoring to high school students who come from low income, and multicultural backgrounds. Reach 1600 got in touch with me for design help because the founders are friends of mine whom I met in college.&lt;/p&gt;
+
+&lt;h1 id=&quot;challenge&quot;&gt;Challenge&lt;/h1&gt;
+&lt;p&gt;Create a brand and identity that aligns with the views and values of the organization. I crafted a brand identity that conveyed empowerment, inspiration, openness and acceptance.&lt;/p&gt;
+
+&lt;h1 id=&quot;process&quot;&gt;Process&lt;/h1&gt;
+&lt;p&gt;In my first meeting with the founders of Reach 1600, I had us do a creative brief to define their goals. We discussed what they wanted Reach 1600’s brand to convey, who their target audience was, and what they needed design-wise to create the most impact.&lt;/p&gt;
+
+&lt;p&gt;We decided to focus on creating a logo and revamping their website, based on these specifications:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A Bright color scheme (specific color request: blues)&lt;/li&gt;
+  &lt;li&gt;A Modern, simple, minimal aesthetic&lt;/li&gt;
+  &lt;li&gt;Convey optimism, empowerment/inspiration, academia/higher education, openness and acceptance, and diversity&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;initial-logos--color-schemes&quot;&gt;Initial Logos + Color schemes&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/r1600_logos.png&quot; alt=&quot;Reach 1600 initial logos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I started some quick sketches on paper to get ideas flowing, then started creating them on Illustrator. I drew my initial inspiration from look and feel of slab serifs used in college and university sweaters, the direction of growth, and the star icon reminiscent of the stickers you would get for doing a great job in primary school. I then put together color palettes with blues, all conveying different moods to see which one they gravitated to for their vision.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/r1600_colors.png&quot; alt=&quot;Reach 1600 color schemes&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;final-logo-and-colors&quot;&gt;Final logo and colors&lt;/h1&gt;
+&lt;p&gt;The director ended up liking the alternative version of the second logo the most, using the first color palette. So I refined it a bit more, and finalized on this design:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Reach_1600_final_logo.png&quot; alt=&quot;Final&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;other-projects&quot;&gt;Other projects&lt;/h1&gt;
+&lt;p&gt;I’ve produced other projects such as an email template for MailChimp, and a trifold brochure to attract donors to the program in order to help keep it free for the high school students admitted.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/r1600_newsletters.jpg&quot; alt=&quot;Reach 1600 newsletter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/R1600_brochure2.jpg&quot; alt=&quot;Reach 1600 brochure&quot; /&gt;
+&lt;img src=&quot;/assets/R1600_brochure.jpg&quot; alt=&quot;Reach 1600 brochure&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Sep 2016 23:31:49 -0700</pubDate>
+        <link>http://localhost:4000/work/reach1600/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/reach1600/</guid>
+        
+        
+        <category>branding</category>
+        
+      </item>
+    
+      <item>
+        <title>MailSift Branding and UI</title>
+        <description>&lt;h1 id=&quot;role&quot;&gt;Role&lt;/h1&gt;
+&lt;p&gt;Branding and Identity (logo and hand lettering), UI&lt;/p&gt;
+
+&lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
+&lt;p&gt;MailSift is a mail parser web application aimed for small businesses. It automatically sorts and categorizes emails based on the content of the body message via sentiment analysis, so that you can prioritize and resolve issues from customer feedback. This is a project I worked on with a team of developers at AngelHack Silicon Valley 2015, a 24-hour Hackathon. It won the Best use of HP IDOL OnDemand Award.&lt;/p&gt;
+
+&lt;h1 id=&quot;challenge&quot;&gt;Challenge&lt;/h1&gt;
+&lt;p&gt;My team and I drew ideas from ways we could improve efficiency at the small companies we had worked with. It’s not uncommon, in these smaller companies, for employees to take on more hats than their titles reveal. We shared mutual experiences in the companies we’ve worked at where the responsibility of customer service would fall on whoever would be able to, most often only one or two people. We took on the challenge of creating an app to ultimately help employees provide the support their customers need, no matter how big or small their company is.&lt;/p&gt;
+
+&lt;h1 id=&quot;process&quot;&gt;Process&lt;/h1&gt;
+&lt;p&gt;Since our app dealt with email data, I sought out visual solutions that made it simple and easy to digest and to use, as well as make it fun and fresh. I explored different ways to display information, using charts and data visualization.&lt;/p&gt;
+
+&lt;p&gt;After deciding on our app’s name, I immediately started sketching out some ideas for logo. I started fleshing out the the ideas I liked best on Illustrator, and getting feedback from the team.&lt;/p&gt;
+
+&lt;h1 id=&quot;sketches--digital-drafts&quot;&gt;Sketches → Digital drafts&lt;/h1&gt;
+
+&lt;p&gt;&lt;img class=&quot;left&quot; src=&quot;/assets/mailsift_sketches.jpg&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mailsift_logos-08.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;
+&lt;img src=&quot;/assets/mailsift_logos-09.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/mailsift_logos-05.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;
+&lt;img src=&quot;/assets/mailsift_logos-06.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/mailsift_logos-07.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;
+&lt;img src=&quot;/assets/mailsift_logos-04.png&quot; alt=&quot;MSLogoIdea&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;final-logo-and-ui&quot;&gt;Final logo and UI&lt;/h1&gt;
+&lt;p&gt;We decided on a logo that combined all our favorite parts of the drafts I created. From there, I created a UI based on the idea that we wanted our app to demonstrated friendliness, fun, and ease-of-use.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mailsift_final_logo.png&quot; alt=&quot;Final&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mailsift_mockup_website.jpg&quot; alt=&quot;MailSift Web App&quot; /&gt;
+&lt;img src=&quot;/assets/mailsift_mockup_website2.jpg&quot; alt=&quot;MailSift Web App&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;reflection&quot;&gt;Reflection&lt;/h1&gt;
+&lt;p&gt;Working under a short time constraint, it was amazing to see how much a team can put together. This taught me to trust in your team, our ideas and product. It taught me the how to trust in your design and make the best of what you can in the time you’re given. This meant stripping it down to the simple necessities to convey the heart of your product.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Sep 2016 23:31:49 -0700</pubDate>
+        <link>http://localhost:4000/work/mailsift/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/mailsift/</guid>
+        
+        
+        <category>digital</category>
+        
+      </item>
+    
+      <item>
+        <title>One Bella Casa Art Direction</title>
+        <description>&lt;h1 id=&quot;role&quot;&gt;Role&lt;/h1&gt;
+&lt;p&gt;Print design, visual design, art direction&lt;/p&gt;
+
+&lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
+&lt;p&gt;One Bella Casa (OBC) is an online home decor company established in 2013 that specializes in textile products, such as throw pillows, duvet covers, tote bags, and shower curtains.&lt;/p&gt;
+
+&lt;h1 id=&quot;challenge&quot;&gt;Challenge&lt;/h1&gt;
+&lt;p&gt;When I joined the team at OBC, I was tasked with creating sales sheets for CEO’s meetings with different buyers across the country. After some time creating a separate new sales sheet for each meeting, we began to realize the need for a comprehensive catalog to show our prospective clients without the overhead cost of having starting from scratch. This was a new project that was never done at the company before, so I took on the task of establishing the workflow and organization of how to tackle this project.&lt;/p&gt;
+
+&lt;h1 id=&quot;process&quot;&gt;Process&lt;/h1&gt;
+&lt;p&gt;At the time, Adobe InDesign was not my forté, but I knew it would be the best program for such a publication. I had to figure out how to use it and familiarize myself with ways to gather all the images and SKUs efficiently, using Excel and InDesign together. I broke down the tasks, set deadlines and put together a plan and timeline to get it done. I spent about 2-3 months developing each catalog, learning from them, and improving it each time.&lt;/p&gt;
+
+&lt;p&gt;So from 2014-2015, I designed the overall look and feel of OBC’s quarterly print catalogs. It not only involved the design of each spread, but I also assisted in the art direction for product photoshoots, produced lifestyle mockups, and designed some of the patterns and graphics on the products themselves.&lt;/p&gt;
+
+&lt;p&gt;I really enjoyed the learning process behind using new software, learning new skills, and being part of every aspect that goes into putting together a successful catalog.&lt;/p&gt;
+
+&lt;h1 id=&quot;winter-2015&quot;&gt;Winter 2015&lt;/h1&gt;
+&lt;div class=&quot;grid&quot;&gt;
+  &lt;div class=&quot;col col--6-of-12&quot;&gt;
+    &lt;img src=&quot;/assets/OBC wintercover.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col col--6-of-12&quot;&gt;
+    &lt;img src=&quot;/assets/OBC_foil.jpg&quot; /&gt;
+    &lt;img src=&quot;/assets/OBC_xmas.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;spring-2015&quot;&gt;Spring 2015&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/OBC_cover.jpg&quot; alt=&quot;OBC Catalog Cover&quot; /&gt;
+&lt;img src=&quot;/assets/OBC_spread_1.jpg&quot; alt=&quot;OBC Catalog Spread&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Sep 2016 23:31:49 -0700</pubDate>
+        <link>http://localhost:4000/work/obc/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/obc/</guid>
+        
+        
+        <category>artdirection</category>
+        
+      </item>
+    
+      <item>
+        <title>Hoopla Mobile App</title>
+        <description>&lt;h1 id=&quot;role&quot;&gt;Role&lt;/h1&gt;
+&lt;p&gt;Design research, visuals, user interface, prototyping&lt;/p&gt;
+
+&lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
+&lt;p&gt;In my Design for Understanding course, we were tasked to reflect on our college experience, and the things we wished we had known about as freshmen. Stephanie Pi, my design partner, and I shared the same idea that our experiences outside of the classroom, through clubs or events we attended, were what enriched our lives the most. We decided we wanted to connect students to the organizations, events and resources available to them at their university.&lt;/p&gt;
+
+&lt;h1 id=&quot;challenge&quot;&gt;Challenge&lt;/h1&gt;
+&lt;p&gt;Due to the sheer abundance of of organizations, events and resources in most colleges, it is not as easily accessible as one may think to get involved in their college community. We sought out to create an interactive phone app that organizes all the events, organizations, and resources on campus. We wanted to make it fun, engaging, and useful.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Post It Session&quot; class=&quot;process&quot; src=&quot;/assets/hoopla_postit.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;process&quot;&gt;Process&lt;/h1&gt;
+&lt;p&gt;Before creating Hoopla, we conducted research on the use and need for the app idea we wanted to materialize. We had the general idea that we wanted it to promote discovery and connection amongst the university community after many brainstorm/post-it sessions. Then, to get a feel for the demographics and behaviors of our target audience, we sent out a Google survey to a different assortment of students to get a feel for how the public would react to our ideas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Questionnaire2.PNG&quot; alt=&quot;Hoopla Questionnaire&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From the results, we gathered valuable information and insight on how to develop an app catered to the needs and wants of our target audience.&lt;/p&gt;
+
+&lt;h1 id=&quot;need----features&quot;&gt;Need –&amp;gt; Features&lt;/h1&gt;
+&lt;p&gt;After the analyzing the feedback we received, we focused on three main features we wanted to explore with our app:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Filtered searching based on mood, time, location, popularity (trending)&lt;/li&gt;
+  &lt;li&gt;User and organization profiles&lt;/li&gt;
+  &lt;li&gt;Discovery: catered or randomized suggestions of events or organizations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Hoopla Wireframes&quot; class=&quot;process&quot; src=&quot;/assets/hoopla_wireframes.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From there, I sketched wireframes for each screen that we needed to present our product. We then started designing the visual look of our app. My partner and I had two different ideas for the visual design: mine steered towards bright colors evoking excitement, while Stephanie took a minimalistic and modern route. In the end, we both agreed on a visual design that melded the best and most relevant aspects of our aesthetics: modern, fun and user friendly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/hoopla_final.jpg&quot; alt=&quot;Hoopla Home&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://marvelapp.com/ded70e/screen/10584891&quot; title=&quot;Hoopla Prototype&quot;&gt;View our prototype here!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Sep 2016 23:31:49 -0700</pubDate>
+        <link>http://localhost:4000/work/hoopla/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/hoopla/</guid>
+        
+        
+        <category>digital</category>
+        
+      </item>
+    
+      <item>
+        <title>Hand lettering</title>
+        <description>&lt;h1 id=&quot;starting-a-passion-project&quot;&gt;Starting a passion project&lt;/h1&gt;
+&lt;p&gt;I began to take up hand lettering at the end of 2014, after taking a study abroad course in the UK. Exploring England through the lens of design instilled a sense of curiosity in me that I thought I had lost from creative burnout in my last year of college. I was interested in type long before college, marveling at the posters at middle school rock shows I attended and wondering how letterforms can elicit different feelings and themes.&lt;/p&gt;
+
+&lt;p&gt;To foster my design curiosities, I practiced hand lettering in my free time. It helped me tremendously as a creative, having to go back to basics and putting pen to paper. It allowed me to tap into creativity in a different way, and broke up the monotony of being in front of a computer. Since then, I’ve been incorporating it into my work to add a personable touch. I’ve produced some of my designs onto textiles and cards, and I even taught a small workshop on art-deco style hand lettered cards in 2015.&lt;/p&gt;
+
+&lt;h1 id=&quot;i-post-semi-regularly-on-my-instagram-things-my-hands-createhttpswwwinstagramcomthingsmyhandscreate-instragram&quot;&gt;I post semi-regularly on my instagram: &lt;a href=&quot;https://www.instagram.com/thingsmyhandscreate/&quot; title=&quot;Instragram&quot;&gt;things my hands create&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/lettering/vibes.jpg&quot; alt=&quot;lettering top&quot; /&gt;
+&lt;img src=&quot;/assets/lettering/baroness.jpg&quot; alt=&quot;lettering top&quot; /&gt;
+&lt;img src=&quot;/assets/lettering/butter.jpg&quot; alt=&quot;lettering bottom&quot; /&gt;
+&lt;img src=&quot;/assets/lettering/outdoor.jpg&quot; alt=&quot;lettering bottom&quot; /&gt;
+&lt;img src=&quot;/assets/lettering/sick.jpg&quot; alt=&quot;lettering bottom&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Sep 2016 23:31:49 -0700</pubDate>
+        <link>http://localhost:4000/work/handlettering/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/handlettering/</guid>
+        
+        
+        <category>lettering</category>
+        
+      </item>
+    
+  </channel>
+</rss>

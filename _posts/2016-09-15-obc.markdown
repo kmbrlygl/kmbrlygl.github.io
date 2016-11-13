@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "One Bella Casa Art Direction"
+date:   2016-09-15 23:31:49 -0700
+categories: artdirection
+thumbnail: assets/obc_thumb.jpg
+caption: "One Bella Casa (OBC) is an online home decor company. I worked in-house and did the art direction on their product catalogs."
+type: "In house"
+intro: "I worked on the layout design, photographic direction, and textile product design for an online home decor company."
+---
+# Role
+Print design, visual design, art direction
+
+# Background
+One Bella Casa (OBC) is an online home decor company established in 2013 that specializes in textile products, such as throw pillows, duvet covers, tote bags, and shower curtains.
+
+# Challenge
+When I joined the team at OBC, I was tasked with creating sales sheets for CEO's meetings with different buyers across the country. After some time creating a separate new sales sheet for each meeting, we began to realize the need for a comprehensive catalog to show our prospective clients without the overhead cost of having starting from scratch. This was a new project that was never done at the company before, so I took on the task of establishing the workflow and organization of how to tackle this project.
+
+# Process
+At the time, Adobe InDesign was not my forté, but I knew it would be the best program for such a publication. I had to figure out how to use it and familiarize myself with ways to gather all the images and SKUs efficiently, using Excel and InDesign together. I broke down the tasks, set deadlines and put together a plan and timeline to get it done. I spent about 2-3 months developing each catalog, learning from them, and improving it each time.
+
+So from 2014-2015, I designed the overall look and feel of OBC’s quarterly print catalogs. It not only involved the design of each spread, but I also assisted in the art direction for product photoshoots, produced lifestyle mockups, and designed some of the patterns and graphics on the products themselves.
+
+I really enjoyed the learning process behind using new software, learning new skills, and being part of every aspect that goes into putting together a successful catalog.
+
+# Winter 2015
+<div class="grid">
+  <div class="col col--6-of-12">
+    <img src="/assets/OBC wintercover.jpg">
+  </div>
+  <div class="col col--6-of-12">
+    <img src="/assets/OBC_foil.jpg">
+    <img src="/assets/OBC_xmas.jpg">
+  </div>
+</div>
+
+
+# Spring 2015
+![OBC Catalog Cover](/assets/OBC_cover.jpg)
+![OBC Catalog Spread](/assets/OBC_spread_1.jpg)
