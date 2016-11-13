@@ -16,6 +16,7 @@ In my Design for Understanding course, we were tasked to reflect on our college 
 
 # Challenge
 <<<<<<< HEAD
+<<<<<<< HEAD
 Due to the sheer abundance of of organizations, events and resources in most colleges, it is not as easily accessible as one may think to get involved in their college community. We sought out to create an interactive phone app that organizes all the events, organizations, and resources on campus. We wanted to make it fun, engaging, and useful.
 
 <img alt="Post It Session" class="process" src="/assets/hoopla_postit.jpg">
@@ -23,10 +24,15 @@ Due to the sheer abundance of of organizations, events and resources in most col
 # Process
 Before creating Hoopla, we conducted research on the use and need for the app idea we wanted to materialize. We had the general idea that we wanted it to promote discovery and connection amongst the university community after many brainstorm/post-it sessions. Then, to get a feel for the demographics and behaviors of our target audience, we sent out a Google survey to a different assortment of students to get a feel for how the public would react to our ideas.
 =======
+=======
+>>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 Due to the sheer abundance of of organizations, events and resources in most colleges, it is not as easily accessible as one may think to get involved in their college community. We sought out to create an interactive phone app that organizes all the events,  organizations, and resources on campus. We wanted to make it fun, engaging, and useful.
 
 # Process
 Before creating Hoopla, we conducted research on the use and need for the app idea we wanted to materialize. We had the general idea that we wanted it to promote discovery and connection amongst the university community. We sent out a Google survey to a different assortment of students to get a feel for how the public would react to our ideas.
+<<<<<<< HEAD
+>>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
+=======
 >>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 
 ![Hoopla Questionnaire](/assets/Questionnaire2.PNG)
@@ -34,8 +40,14 @@ Before creating Hoopla, we conducted research on the use and need for the app id
 From the results, we gathered valuable information and insight on how to develop an app catered to the needs and wants of our target audience.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Need --> Features
 After the analyzing the feedback we received, we focused on three main features we wanted to explore with our app:  
+=======
+# Features
+We initially brainstormed the features we wanted to include using a wall of post-its, then created a layout map to establish organization and flow.  
+The three main features of our app were:  
+>>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 =======
 # Features
 We initially brainstormed the features we wanted to include using a wall of post-its, then created a layout map to establish organization and flow.  
@@ -47,8 +59,11 @@ The three main features of our app were:
 * Discovery: catered or randomized suggestions of events or organizations
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <img alt="Hoopla Wireframes" class="process" src="/assets/hoopla_wireframes.jpg">
 
+=======
+>>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 =======
 >>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 From there, I sketched wireframes for each screen that we needed to present our product. We then started designing the visual look of our app. My partner and I had two different ideas for the visual design: mine steered towards bright colors evoking excitement, while Stephanie took a minimalistic and modern route. In the end, we both agreed on a visual design that melded the best and most relevant aspects of our aesthetics: modern, fun and user friendly.

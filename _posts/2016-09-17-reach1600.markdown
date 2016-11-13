@@ -19,6 +19,7 @@ Create a brand and identity that aligns with the views and values of the organiz
 
 # Process
 <<<<<<< HEAD
+<<<<<<< HEAD
 In my first meeting with the founders of Reach 1600, I had us do a creative brief to define their goals. We discussed what they wanted Reach 1600's brand to convey, who their target audience was, and what they needed design-wise to create the most impact.
 
 We decided to focus on creating a logo and revamping their website, based on these specifications:
@@ -26,18 +27,24 @@ We decided to focus on creating a logo and revamping their website, based on the
 1. A Bright color scheme (specific color request: blues)
 2. A Modern, simple, minimal aesthetic
 =======
+=======
+>>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 Reach 1600 was just conceived months prior to when I started working with them, so I had the liberty to create from scratch. I met up with my founders and discussed what message they wanted Reach 1600 to convey and how we planned to develop their brand.
 
 We decided on these specifications:
 
 1. Bright color scheme (specific color request: blues)
 2. Aesthetic: modern, simple, minimal
+<<<<<<< HEAD
+>>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
+=======
 >>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 3. Convey optimism, empowerment/inspiration, academia/higher education, openness and acceptance, and diversity
 
 # Initial Logos + Color schemes
 ![Reach 1600 initial logos](/assets/r1600_logos.png)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 I started some quick sketches on paper to get ideas flowing, then started creating them on Illustrator. I drew my initial inspiration from look and feel of slab serifs used in college and university sweaters, the direction of growth, and the star icon reminiscent of the stickers you would get for doing a great job in primary school. I then put together color palettes with blues, all conveying different moods to see which one they gravitated to for their vision.
 
@@ -46,12 +53,17 @@ I started some quick sketches on paper to get ideas flowing, then started creati
 # Final logo and colors
 The director ended up liking the alternative version of the second logo the most, using the first color palette. So I refined it a bit more, and finalized on this design:
 =======
+=======
+>>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 My first goal was to create a logo design. I started some quick sketches on paper to get ideas flowing, then started creating them on Illustrator. I drew my initial inspiration from look and feel of slab serifs used in college and university sweaters, the direction of growth, and the star icon reminiscent of the stickers you would get for doing a great job in primary school.
 
 ![Reach 1600 color schemes](/assets/r1600_colors.png)
 
 # Final logo
 The director ended up liking the alternative version of the second logo the most. So I refined it a bit more, and finalized on this design:
+<<<<<<< HEAD
+>>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
+=======
 >>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 
 ![Final](/assets/Reach_1600_final_logo.png)
