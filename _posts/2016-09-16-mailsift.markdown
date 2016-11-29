@@ -4,15 +4,7 @@ title:  "MailSift Branding and UI"
 date:   2016-09-16 23:31:49 -0700
 categories: digital
 thumbnail: assets/ms_thumb.jpg
-<<<<<<< HEAD
-<<<<<<< HEAD
 caption: "MailSift is a project I worked on at a AngelHack Sillicon Valley 2015. It is a mail parser web application aimed for small businesses."
-=======
-caption: "MailSift is a project I worked on at a Hackathon. It is a mail parser web application aimed for small businesses."
->>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
-=======
-caption: "MailSift is a project I worked on at a Hackathon. It is a mail parser web application aimed for small businesses."
->>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 type: "Hackathon"
 intro: "MailSift is an email parsing app aimed for small businesses that I helped develop at Angelhack 2015."
 ---
@@ -44,15 +36,7 @@ After deciding on our app's name, I immediately started sketching out some ideas
 
 
 # Final logo and UI
-<<<<<<< HEAD
-<<<<<<< HEAD
 We decided on a logo that combined all our favorite parts of the drafts I created. From there, I created a UI based on the idea that we wanted our app to demonstrated friendliness, fun, and ease-of-use.
-=======
-We decided on a logo that combined all our favorite parts of the drafts I created. From there, I created a UI based on the colors used and to that demonstrated friendliness, fun, and ease-of-use that we wanted to capture.
->>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
-=======
-We decided on a logo that combined all our favorite parts of the drafts I created. From there, I created a UI based on the colors used and to that demonstrated friendliness, fun, and ease-of-use that we wanted to capture.
->>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 
 ![Final](/assets/mailsift_final_logo.png)
 

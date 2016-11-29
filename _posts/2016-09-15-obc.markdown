@@ -15,8 +15,6 @@ Print design, visual design, art direction
 One Bella Casa (OBC) is an online home decor company established in 2013 that specializes in textile products, such as throw pillows, duvet covers, tote bags, and shower curtains.
 
 # Challenge
-<<<<<<< HEAD
-<<<<<<< HEAD
 When I joined the team at OBC, I was tasked with creating sales sheets for CEO's meetings with different buyers across the country. After some time creating a separate new sales sheet for each meeting, we began to realize the need for a comprehensive catalog to show our prospective clients without the overhead cost of having starting from scratch. This was a new project that was never done at the company before, so I took on the task of establishing the workflow and organization of how to tackle this project.
 
 # Process
@@ -25,21 +23,6 @@ At the time, Adobe InDesign was not my forté, but I knew it would be the best p
 So from 2014-2015, I designed the overall look and feel of OBC’s quarterly print catalogs. It not only involved the design of each spread, but I also assisted in the art direction for product photoshoots, produced lifestyle mockups, and designed some of the patterns and graphics on the products themselves.
 
 I really enjoyed the learning process behind using new software, learning new skills, and being part of every aspect that goes into putting together a successful catalog.
-=======
-=======
->>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
-Before I came to OBC, we did not had a comprehensive catalog to show clients, although there were sales sheets and small brochures put together for meetings. Since this was essentially new, I had the freedom to establish the workflow and organization of how to tackle the project.
-
-# Process
-At the time, Adobe InDesign was not my forté, but I knew it would be the best program for such a publication. I had to figure it all out on my own and familiarize myself with ways to gather all the images and SKUs efficiently, using Excel and InDesign together. I spent 2-3 months developing each catalog, learning from them, and improving it each time.
-
-From 2014-2015, I designed the overall look and feel of OBC’s quarterly print catalogs. It not only involved the design of each spread, but I also assisted in the art direction for product photoshoots, produced lifestyle mockups, and designed some of the patterns and graphics on the products themselves.
-
-I experimented with differing arrangements of photographs and text to create visual interest and rhythm.
-<<<<<<< HEAD
->>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
-=======
->>>>>>> 9bfed1c7c3ac758186055412d748e912b306324e
 
 # Winter 2015
 <div class="grid">
