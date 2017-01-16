@@ -6,9 +6,117 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Nov 2016 00:32:38 -0800</pubDate>
-    <lastBuildDate>Sun, 13 Nov 2016 00:32:38 -0800</lastBuildDate>
+    <pubDate>Mon, 16 Jan 2017 04:38:01 -0800</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2017 04:38:01 -0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>All Together Mobile App</title>
+        <description>&lt;h1 id=&quot;role&quot;&gt;Role&lt;/h1&gt;
+&lt;p&gt;User research, user interface, rapid prototyping&lt;/p&gt;
+
+&lt;h1 id=&quot;all-together&quot;&gt;All Together&lt;/h1&gt;
+&lt;video height=&quot;375px&quot; autoplay=&quot;&quot; loop=&quot;&quot; class=&quot;floatL&quot; margin-bottom=&quot;20px&quot;&gt;
+  &lt;source src=&quot;/assets/video/overview_allt.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;p&gt;All Together is an event planning app that aims to assist hosts in all the important aspects of event planning in one centralized place. It focuses on:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Creating a To Do list&lt;/li&gt;
+  &lt;li&gt;Delegating tasks or items via sign up list&lt;/li&gt;
+  &lt;li&gt;Communicating with Guests&lt;/li&gt;
+  &lt;li&gt;Keeping track of your events and guests&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;button type=&quot;button&quot; onclick=&quot;window.open('https://marvelapp.com/1g627f3')&quot; alt=&quot;All Together prototype on Marvel&quot;&gt;View the prototype in Marvel!&lt;/button&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
+&lt;p&gt;I developed this app while taking a 6-week course with &lt;a href=&quot;http://whitespacecrew.com/&quot;&gt;Whitespace&lt;/a&gt;, a design accelerator program in San Francisco.&lt;/p&gt;
+
+&lt;h1 id=&quot;target-market-and-competitive-analysis&quot;&gt;Target Market and Competitive Analysis&lt;/h1&gt;
+&lt;p&gt;When I decided I wanted to work on an event planning tool, I went straight into brainstorming and researching my target market.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/empathymap.jpg&quot; alt=&quot;All Together Empathy Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I created empathy map to pick my user’s brain about what pains, or worries they had regarding event planning, a well as what’s the big motivator that makes people still want to plan events despite those pains.&lt;/p&gt;
+
+&lt;p&gt;From there, I did background research on other apps and tools out on the market. I looked into what people use to plan or organize events and how and why they are successful, useful, or delightful.&lt;/p&gt;
+
+&lt;p&gt;Some apps that came up were:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Facebook Events and Messenger&lt;/li&gt;
+  &lt;li&gt;Fete&lt;/li&gt;
+  &lt;li&gt;Frenzy&lt;/li&gt;
+  &lt;li&gt;Twitter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After determining how these apps facilitated communication, I began to gravitate towards an approach where messaging was the main conduit for communication between the host and the guests.&lt;/p&gt;
+
+&lt;h1 id=&quot;user-story-and-storyboard&quot;&gt;User Story and Storyboard&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/Storyboard.jpg&quot; alt=&quot;All Together User Storyboard&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To help define more of the parameters of my product and the user’s big motivator, I constructed a user story:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On the day of the surprise party, I want everyone to arrive on time with what they signed up for, so that &lt;strong&gt;the surprise can be successful and everyone has a good time.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Essentially, the host wants everyone to collaborate towards one goal (celebrate a birthday, etc.) and  have a good time.&lt;/p&gt;
+
+&lt;h1 id=&quot;paper-prototypes-and-initial-user-testing&quot;&gt;Paper Prototypes and Initial User Testing&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/paperproto.jpg&quot; alt=&quot;All Together paper prototypes&quot; /&gt;
+After defining the important user details and a general idea of the functionalities of the app, I went straight into creating rough paper prototypes and testing them out on real people.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/user_test.jpg&quot; alt=&quot;All Together user testing&quot; /&gt;
+&lt;img src=&quot;/assets/user_test2.jpg&quot; alt=&quot;All Together user testing&quot; /&gt;
+&lt;img src=&quot;/assets/user_test_3.jpg&quot; alt=&quot;All Together user testing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The feedback revealed to me:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What people care most about&lt;/li&gt;
+  &lt;li&gt;Things that people were looking for (task manager/to-do list) in my app&lt;/li&gt;
+  &lt;li&gt;What cause confusion (i.e. using legends, the different connotations of words and labels I set up)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;visual-design-and-iterations&quot;&gt;Visual Design and Iterations&lt;/h1&gt;
+&lt;p&gt;With my apps functionalities validated by my user testing, I was ready to dive into designing the app with some confidence.&lt;/p&gt;
+
+&lt;p&gt;I put together a style tile conveying my app’s aesthetics through color, type, and graphic stylings.&lt;/p&gt;
+
+&lt;p&gt;I worked towards a UI that had a modern, fun and reliable feel. Purple as modern, orange as fun and a deep blue-green to ground everything out. Rounded edges for friendliness.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-iteration&quot;&gt;First Iteration&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/allt_1_it.png&quot; alt=&quot;All Together 1st UI Iteration&quot; /&gt;
+My initial UI captured the gist of what I wanted to go for (simple and fun, with actionable items and overview), but it still needed some work.&lt;/p&gt;
+
+&lt;p&gt;Before attempting to spend tons of hours on making it pixel perfect, I went and tested it out on users. In doing so, I was able to prioritize and tackle the most problematic areas in the design:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;..my brain feels a little overloaded with information because it all looks like one block of text.&lt;/li&gt;
+  &lt;li&gt;Some of the actions and certain information seem more important than others but are not organized that way in the app&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;final-iteration-for-now&quot;&gt;Final Iteration (For Now)&lt;/h1&gt;
+&lt;p&gt;After multiple iterations, my final design came about from scaling back color the color, simplifying flows, create more room and whitespace for the design to breathe, and thinking about clever ways to display complex information.&lt;/p&gt;
+
+&lt;p&gt;Try it Yourself »&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;– event screen(s) –&amp;gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;take-away&quot;&gt;Take Away&lt;/h1&gt;
+&lt;p&gt;My biggest takeaway from this course was how the product design process is not linear. There were many times where I had to go back to previous steps and do more user testing to help validate my design decisions. In doing so, stepping back enabled me to take confident leaps forward. It showed me how iteration (aka failing often) is key to creating a successful digital app that is truly user-centered.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jan 2017 18:31:49 -0800</pubDate>
+        <link>http://localhost:4000/work/alltogether/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/alltogether/</guid>
+        
+        
+        <category>digital</category>
+        
+      </item>
     
       <item>
         <title>Reach 1600 Branding and Identity</title>

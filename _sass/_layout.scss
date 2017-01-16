@@ -235,6 +235,7 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    width: 85%;
 }
 
 .post-title {
@@ -249,6 +250,9 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    width: 85%;
+    position: relative;
+    margin: auto;
 
     h2 {
         font-size: 32px;
@@ -273,7 +277,23 @@
             font-size: 18px;
         }
     }
+/** Trying to make images larger that divs.
+    img {
+     display: block;
+     margin: 30px 0;
+     width: 100vw;
+     margin-left: 50%;
+     -webkit-transform: translateX(-50%);
+     -moz-transform: translateX(-50%);
+     -ms-transform: translateX(-50%);
+     -o-transform: translateX(-50%);
+     transform: translateX(-50%);
+  }
+**/
 }
+.about-content {
+    margin-bottom: $spacing-unit;
+  }
 
 img[alt="lettering top"] {
   height: 410px;
@@ -282,4 +302,11 @@ img[alt="lettering top"] {
 img[alt="lettering bottom"] {
   height: 300px;
   margin: 10px;
+}
+.floatL {
+  float: left;
+  margin: 0px 30px 0 0;
+}
+.floatR {
+  float: right;
 }

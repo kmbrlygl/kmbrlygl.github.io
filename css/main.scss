@@ -7,7 +7,7 @@
 
 // Our variables
 $base-font-family: "freight-text-pro", Georgia, serif;
-$base-font-size:   18px;
+$base-font-size:   19px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -17,7 +17,7 @@ $italic-font-weight: 400;
 $italic-line-height: 1.5;
 
 $headers-font-family: "filson-soft", Helvetica, Arial, sans-serif;
-$headers-font-size:   20px;
+$headers-font-size:   19px;
 $headers-font-weight: normal;
 $headers-font-size:   $headers-font-size * 0.875;
 $headers-line-height: 1.5;
@@ -34,10 +34,10 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    1000px;
+$content-width:    800px;
 
 $on-palm:          600px;
-$on-laptop:        1000px;
+$on-laptop:        800px;
 
 
 
