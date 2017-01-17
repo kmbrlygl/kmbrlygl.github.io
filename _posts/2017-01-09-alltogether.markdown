@@ -53,17 +53,16 @@ After determining how these apps facilitated communication, I began to gravitate
 
 To help define more of the parameters of my product and the user’s big motivator, I constructed a user story:
 
-> On the day of the surprise party, I want everyone to arrive on time with what they signed up for, so that **the surprise can be successful and everyone has a good time.**
+> On the day of the party, I want everyone to arrive on time with what they signed up for, so that **it can be successful and everyone has a good time.**
 
-Essentially, the host wants everyone to collaborate towards one goal (celebrate a birthday, etc.) and  have a good time.
+Essentially, the host wants everyone to work towards one goal (celebrate a birthday, etc.) and enjoy each other's company.
 
 # Paper Prototypes and Initial User Testing
 ![All Together paper prototypes](/assets/paperproto.jpg)
+
 After defining the important user details and a general idea of the functionalities of the app, I went straight into creating rough paper prototypes and testing them out on real people.
 
-![All Together user testing](/assets/user_test.jpg)
-![All Together user testing](/assets/user_test2.jpg)
-![All Together user testing](/assets/user_test_3.jpg)
+![All Together user testing](/assets/usertesting_allt.jpg)
 
 The feedback revealed to me:
 
@@ -72,16 +71,16 @@ The feedback revealed to me:
 - What cause confusion (i.e. using legends, the different connotations of words and labels I set up)
 
 # Visual Design and Iterations
-With my apps functionalities validated by my user testing, I was ready to dive into designing the app with some confidence.
+With my apps functionalities validated by my user testing, I was ready to dive into designing the app with some confidence. I put together a style tile conveying my app’s aesthetics through color, type, and graphic stylings and applied to to my interface.
 
 [comment]: # ![All Together style tile](/assets/allt_style_tile.png)
 
-I put together a style tile conveying my app’s aesthetics through color, type, and graphic stylings.
-
 I worked towards a UI that had a modern, fun and reliable feel. Purple as modern, orange as fun and a deep blue-green to ground everything out. Rounded edges for friendliness.
 
-## First Iteration
+### First Iteration
+
 ![All Together 1st UI Iteration](/assets/allt_1_it.png)
+
 My initial UI captured the gist of what I wanted to go for (simple and fun, with actionable items and overview), but it still needed some work.
 
 Before attempting to spend tons of hours on making it pixel perfect, I went and tested it out on users. In doing so, I was able to prioritize and tackle the most problematic areas in the design:
@@ -91,8 +90,6 @@ Before attempting to spend tons of hours on making it pixel perfect, I went and 
 
 # Final Iteration (For Now)
 After multiple iterations, my final design came about from scaling back color the color, simplifying flows, create more room and whitespace for the design to breathe, and thinking about clever ways to display complex information.
-
-Try it Yourself »
 
 <-- event screen(s) -->
 

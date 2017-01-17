@@ -127,11 +127,12 @@ blockquote {
   font-family: "freight-text-pro", Georgia, serif;
   font-style: italic;
   font-weight: 400;
-  color: #828282;
+  color: #B02F6A;
   border-left: 0px solid #e8e8e8;
   padding-left: 15px;
   font-size: 1.5em;
-  letter-spacing: 1px; }
+  letter-spacing: 1px;
+  margin-bottom: 20px; }
   blockquote > :last-child {
     margin-bottom: 0; }
 
@@ -395,9 +396,7 @@ button {
 .post-content {
   margin-bottom: 30px;
   width: 85%;
-  position: relative;
-  margin: auto;
-  /** Trying to make images larger that divs.
+  /** Trying to make images larger than divs.
       img {
        display: block;
        margin: 30px 0;

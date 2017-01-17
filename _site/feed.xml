@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Jan 2017 04:38:01 -0800</pubDate>
-    <lastBuildDate>Mon, 16 Jan 2017 04:38:01 -0800</lastBuildDate>
+    <pubDate>Mon, 16 Jan 2017 23:50:45 -0800</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2017 23:50:45 -0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -60,18 +60,17 @@
 &lt;p&gt;To help define more of the parameters of my product and the user’s big motivator, I constructed a user story:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;On the day of the surprise party, I want everyone to arrive on time with what they signed up for, so that &lt;strong&gt;the surprise can be successful and everyone has a good time.&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;On the day of the party, I want everyone to arrive on time with what they signed up for, so that &lt;strong&gt;it can be successful and everyone has a good time.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Essentially, the host wants everyone to collaborate towards one goal (celebrate a birthday, etc.) and  have a good time.&lt;/p&gt;
+&lt;p&gt;Essentially, the host wants everyone to work towards one goal (celebrate a birthday, etc.) and enjoy each other’s company.&lt;/p&gt;
 
 &lt;h1 id=&quot;paper-prototypes-and-initial-user-testing&quot;&gt;Paper Prototypes and Initial User Testing&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/paperproto.jpg&quot; alt=&quot;All Together paper prototypes&quot; /&gt;
-After defining the important user details and a general idea of the functionalities of the app, I went straight into creating rough paper prototypes and testing them out on real people.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/paperproto.jpg&quot; alt=&quot;All Together paper prototypes&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/user_test.jpg&quot; alt=&quot;All Together user testing&quot; /&gt;
-&lt;img src=&quot;/assets/user_test2.jpg&quot; alt=&quot;All Together user testing&quot; /&gt;
-&lt;img src=&quot;/assets/user_test_3.jpg&quot; alt=&quot;All Together user testing&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;After defining the important user details and a general idea of the functionalities of the app, I went straight into creating rough paper prototypes and testing them out on real people.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/usertesting_allt.jpg&quot; alt=&quot;All Together user testing&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The feedback revealed to me:&lt;/p&gt;
 
@@ -82,15 +81,15 @@ After defining the important user details and a general idea of the functionalit
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;visual-design-and-iterations&quot;&gt;Visual Design and Iterations&lt;/h1&gt;
-&lt;p&gt;With my apps functionalities validated by my user testing, I was ready to dive into designing the app with some confidence.&lt;/p&gt;
-
-&lt;p&gt;I put together a style tile conveying my app’s aesthetics through color, type, and graphic stylings.&lt;/p&gt;
+&lt;p&gt;With my apps functionalities validated by my user testing, I was ready to dive into designing the app with some confidence. I put together a style tile conveying my app’s aesthetics through color, type, and graphic stylings and applied to to my interface.&lt;/p&gt;
 
 &lt;p&gt;I worked towards a UI that had a modern, fun and reliable feel. Purple as modern, orange as fun and a deep blue-green to ground everything out. Rounded edges for friendliness.&lt;/p&gt;
 
-&lt;h2 id=&quot;first-iteration&quot;&gt;First Iteration&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/allt_1_it.png&quot; alt=&quot;All Together 1st UI Iteration&quot; /&gt;
-My initial UI captured the gist of what I wanted to go for (simple and fun, with actionable items and overview), but it still needed some work.&lt;/p&gt;
+&lt;h3 id=&quot;first-iteration&quot;&gt;First Iteration&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/allt_1_it.png&quot; alt=&quot;All Together 1st UI Iteration&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My initial UI captured the gist of what I wanted to go for (simple and fun, with actionable items and overview), but it still needed some work.&lt;/p&gt;
 
 &lt;p&gt;Before attempting to spend tons of hours on making it pixel perfect, I went and tested it out on users. In doing so, I was able to prioritize and tackle the most problematic areas in the design:&lt;/p&gt;
 
@@ -101,8 +100,6 @@ My initial UI captured the gist of what I wanted to go for (simple and fun, with
 
 &lt;h1 id=&quot;final-iteration-for-now&quot;&gt;Final Iteration (For Now)&lt;/h1&gt;
 &lt;p&gt;After multiple iterations, my final design came about from scaling back color the color, simplifying flows, create more room and whitespace for the design to breathe, and thinking about clever ways to display complex information.&lt;/p&gt;
-
-&lt;p&gt;Try it Yourself »&lt;/p&gt;
 
 &lt;p&gt;&amp;lt;– event screen(s) –&amp;gt;&lt;/p&gt;
 
