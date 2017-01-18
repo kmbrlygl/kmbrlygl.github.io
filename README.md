@@ -1,6 +1,6 @@
 # Design Portfolio on Jekyll
 
-Hey there! Thanks for taking a peek at [my portfolio site](kmbrlygl.github.io). It's still got a TON of work, but I'm having so much fun playing with it so far!
+Hey there! Thanks for taking a peek at [my portfolio site](https://kmbrlygl.github.io/). It's still got a TON of work, but I'm having so much fun playing with it so far!
 
 Big thanks to [a super cool] **Kat** for writing this [Medium post](https://medium.com/@katfukui/the-design-portfolio-workflow-a94030d0b39e#.s4t4e7btd) about putting together a portfolio site in Jekyll.
 
