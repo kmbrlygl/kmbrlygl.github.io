@@ -141,6 +141,10 @@
     width: -webkit-calc(33% - (#{$spacing-unit} / 2));
     width:         calc(33% - (#{$spacing-unit} / 2));
 }
+.footer-col-2-3 {
+    width: -webkit-calc(66% - (#{$spacing-unit} / 2));
+    width:         calc(66% - (#{$spacing-unit} / 2));
+}
 
 @include media-query($on-laptop) {
     .footer-col-1,
@@ -187,6 +191,7 @@
 
 
 .post-meta {
+    font-family: $headers-font-family;
     font-size: $small-font-size;
     color: $grey-color;
 }
@@ -235,7 +240,6 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
-    width: 85%;
 }
 
 .post-title {
@@ -250,7 +254,6 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
-    width: 85%;
 
     h2 {
         font-size: 32px;

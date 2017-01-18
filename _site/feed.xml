@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Jan 2017 23:50:45 -0800</pubDate>
-    <lastBuildDate>Mon, 16 Jan 2017 23:50:45 -0800</lastBuildDate>
+    <pubDate>Wed, 18 Jan 2017 01:13:25 -0800</pubDate>
+    <lastBuildDate>Wed, 18 Jan 2017 01:13:25 -0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -23,25 +23,25 @@
 &lt;p&gt;All Together is an event planning app that aims to assist hosts in all the important aspects of event planning in one centralized place. It focuses on:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Creating a To Do list&lt;/li&gt;
+  &lt;li&gt;Creating a To-Do list&lt;/li&gt;
   &lt;li&gt;Delegating tasks or items via sign up list&lt;/li&gt;
-  &lt;li&gt;Communicating with Guests&lt;/li&gt;
+  &lt;li&gt;Communicating with guests&lt;/li&gt;
   &lt;li&gt;Keeping track of your events and guests&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;button type=&quot;button&quot; onclick=&quot;window.open('https://marvelapp.com/1g627f3')&quot; alt=&quot;All Together prototype on Marvel&quot;&gt;View the prototype in Marvel!&lt;/button&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
-&lt;p&gt;I developed this app while taking a 6-week course with &lt;a href=&quot;http://whitespacecrew.com/&quot;&gt;Whitespace&lt;/a&gt;, a design accelerator program in San Francisco.&lt;/p&gt;
+&lt;p&gt;I developed this app while taking a 6-week part-time course with &lt;a href=&quot;http://whitespacecrew.com/&quot;&gt;Whitespace&lt;/a&gt;, a design accelerator program in San Francisco.&lt;/p&gt;
 
 &lt;h1 id=&quot;target-market-and-competitive-analysis&quot;&gt;Target Market and Competitive Analysis&lt;/h1&gt;
-&lt;p&gt;When I decided I wanted to work on an event planning tool, I went straight into brainstorming and researching my target market.&lt;/p&gt;
+&lt;p&gt;Once I decided I wanted to work on an event planning tool for event hosts, I went straight into brainstorming and researching my target market.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/empathymap.jpg&quot; alt=&quot;All Together Empathy Map&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I created empathy map to pick my user’s brain about what pains, or worries they had regarding event planning, a well as what’s the big motivator that makes people still want to plan events despite those pains.&lt;/p&gt;
 
-&lt;p&gt;From there, I did background research on other apps and tools out on the market. I looked into what people use to plan or organize events and how and why they are successful, useful, or delightful.&lt;/p&gt;
+&lt;p&gt;From there, I did background research on other apps and tools out on the market. I asked around and looked into what people in my target market use to plan or organize events and how and why they were successful, useful, or delightful.&lt;/p&gt;
 
 &lt;p&gt;Some apps that came up were:&lt;/p&gt;
 
@@ -57,18 +57,18 @@
 &lt;h1 id=&quot;user-story-and-storyboard&quot;&gt;User Story and Storyboard&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/Storyboard.jpg&quot; alt=&quot;All Together User Storyboard&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;To help define more of the parameters of my product and the user’s big motivator, I constructed a user story:&lt;/p&gt;
+&lt;p&gt;To help define more of the parameters of my product and pinpoint my user’s big motivator, I constructed a user story:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;On the day of the party, I want everyone to arrive on time with what they signed up for, so that &lt;strong&gt;it can be successful and everyone has a good time.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Essentially, the host wants everyone to work towards one goal (celebrate a birthday, etc.) and enjoy each other’s company.&lt;/p&gt;
+&lt;p&gt;Essentially, the host wants everyone to work towards one goal (celebrate a birthday, etc.) and enjoy each other’s company. I leveraged this story to direct my design decisions to to address a specific use case.&lt;/p&gt;
 
 &lt;h1 id=&quot;paper-prototypes-and-initial-user-testing&quot;&gt;Paper Prototypes and Initial User Testing&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/paperproto.jpg&quot; alt=&quot;All Together paper prototypes&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;After defining the important user details and a general idea of the functionalities of the app, I went straight into creating rough paper prototypes and testing them out on real people.&lt;/p&gt;
+&lt;p&gt;After defining the important user details and a general idea of the functionalities of the app, I put it straight to paper and started creating rough paper prototypes. This ended up being my wireframes and testing them out on real people.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/usertesting_allt.jpg&quot; alt=&quot;All Together user testing&quot; /&gt;&lt;/p&gt;
 
@@ -83,7 +83,7 @@
 &lt;h1 id=&quot;visual-design-and-iterations&quot;&gt;Visual Design and Iterations&lt;/h1&gt;
 &lt;p&gt;With my apps functionalities validated by my user testing, I was ready to dive into designing the app with some confidence. I put together a style tile conveying my app’s aesthetics through color, type, and graphic stylings and applied to to my interface.&lt;/p&gt;
 
-&lt;p&gt;I worked towards a UI that had a modern, fun and reliable feel. Purple as modern, orange as fun and a deep blue-green to ground everything out. Rounded edges for friendliness.&lt;/p&gt;
+&lt;p&gt;I worked towards a UI that had a modern, fun and reliable feel. Purple as modern, orange as fun and a deep blue-green to ground everything out. I stuck to mostly using shapes with rounded edges to reaffirm a feeling of friendliness and fun.&lt;/p&gt;
 
 &lt;h3 id=&quot;first-iteration&quot;&gt;First Iteration&lt;/h3&gt;
 
@@ -101,7 +101,9 @@
 &lt;h1 id=&quot;final-iteration-for-now&quot;&gt;Final Iteration (For Now)&lt;/h1&gt;
 &lt;p&gt;After multiple iterations, my final design came about from scaling back color the color, simplifying flows, create more room and whitespace for the design to breathe, and thinking about clever ways to display complex information.&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;– event screen(s) –&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/allt_screens.png&quot; alt=&quot;All Together Final Screens&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;button type=&quot;button&quot; onclick=&quot;window.open('https://marvelapp.com/1g627f3')&quot; alt=&quot;All Together prototype on Marvel&quot;&gt;View the prototype in Marvel!&lt;/button&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;take-away&quot;&gt;Take Away&lt;/h1&gt;
 &lt;p&gt;My biggest takeaway from this course was how the product design process is not linear. There were many times where I had to go back to previous steps and do more user testing to help validate my design decisions. In doing so, stepping back enabled me to take confident leaps forward. It showed me how iteration (aka failing often) is key to creating a successful digital app that is truly user-centered.&lt;/p&gt;

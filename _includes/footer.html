@@ -6,29 +6,31 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.description }}</li>
-        </ul>
+        <p>Shoot me an email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
       </div>
 
       <div class="footer-col footer-col-2">
-        <p>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-      </div>
-
-      <div class="footer-col footer-col-3">
         <ul class="social-media-list">
+          {% if site.instagram_username %}
+          <li>
+            {% include icon-insta.html username=site.instagram_username %}
+          </li>
+          {% endif %}
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
-
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
         </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>By the way, my portfolio runs on Jekyll!</p>
       </div>
     </div>
 

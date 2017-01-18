@@ -18,9 +18,9 @@ User research, user interface, rapid prototyping
 </video>
 All Together is an event planning app that aims to assist hosts in all the important aspects of event planning in one centralized place. It focuses on:
 
-1. Creating a To Do list
+1. Creating a To-Do list
 2. Delegating tasks or items via sign up list
-3. Communicating with Guests
+3. Communicating with guests
 4. Keeping track of your events and guests
 
 <button type="button" onClick="window.open('https://marvelapp.com/1g627f3')" alt="All Together prototype on Marvel">View the prototype in Marvel!</button>
@@ -28,16 +28,16 @@ All Together is an event planning app that aims to assist hosts in all the impor
 
 
 # Background
-I developed this app while taking a 6-week course with [Whitespace](http://whitespacecrew.com/), a design accelerator program in San Francisco.
+I developed this app while taking a 6-week part-time course with [Whitespace](http://whitespacecrew.com/), a design accelerator program in San Francisco.
 
 # Target Market and Competitive Analysis
-When I decided I wanted to work on an event planning tool, I went straight into brainstorming and researching my target market.
+Once I decided I wanted to work on an event planning tool for event hosts, I went straight into brainstorming and researching my target market.
 
 ![All Together Empathy Map](/assets/empathymap.jpg)
 
 I created empathy map to pick my user’s brain about what pains, or worries they had regarding event planning, a well as what’s the big motivator that makes people still want to plan events despite those pains.
 
-From there, I did background research on other apps and tools out on the market. I looked into what people use to plan or organize events and how and why they are successful, useful, or delightful.
+From there, I did background research on other apps and tools out on the market. I asked around and looked into what people in my target market use to plan or organize events and how and why they were successful, useful, or delightful.
 
 Some apps that came up were:
 
@@ -51,16 +51,16 @@ After determining how these apps facilitated communication, I began to gravitate
 # User Story and Storyboard
 ![All Together User Storyboard](/assets/Storyboard.jpg)
 
-To help define more of the parameters of my product and the user’s big motivator, I constructed a user story:
+To help define more of the parameters of my product and pinpoint my user’s big motivator, I constructed a user story:
 
 > On the day of the party, I want everyone to arrive on time with what they signed up for, so that **it can be successful and everyone has a good time.**
 
-Essentially, the host wants everyone to work towards one goal (celebrate a birthday, etc.) and enjoy each other's company.
+Essentially, the host wants everyone to work towards one goal (celebrate a birthday, etc.) and enjoy each other's company. I leveraged this story to direct my design decisions to to address a specific use case.  
 
 # Paper Prototypes and Initial User Testing
 ![All Together paper prototypes](/assets/paperproto.jpg)
 
-After defining the important user details and a general idea of the functionalities of the app, I went straight into creating rough paper prototypes and testing them out on real people.
+After defining the important user details and a general idea of the functionalities of the app, I put it straight to paper and started creating rough paper prototypes. This ended up being my wireframes and testing them out on real people.
 
 ![All Together user testing](/assets/usertesting_allt.jpg)
 
@@ -75,7 +75,7 @@ With my apps functionalities validated by my user testing, I was ready to dive i
 
 [comment]: # ![All Together style tile](/assets/allt_style_tile.png)
 
-I worked towards a UI that had a modern, fun and reliable feel. Purple as modern, orange as fun and a deep blue-green to ground everything out. Rounded edges for friendliness.
+I worked towards a UI that had a modern, fun and reliable feel. Purple as modern, orange as fun and a deep blue-green to ground everything out. I stuck to mostly using shapes with rounded edges to reaffirm a feeling of friendliness and fun.
 
 ### First Iteration
 
@@ -91,7 +91,9 @@ Before attempting to spend tons of hours on making it pixel perfect, I went and 
 # Final Iteration (For Now)
 After multiple iterations, my final design came about from scaling back color the color, simplifying flows, create more room and whitespace for the design to breathe, and thinking about clever ways to display complex information.
 
-<-- event screen(s) -->
+![All Together Final Screens](/assets/allt_screens.png)
+
+<button type="button" onClick="window.open('https://marvelapp.com/1g627f3')" alt="All Together prototype on Marvel">View the prototype in Marvel!</button>
 
 # Take Away
 My biggest takeaway from this course was how the product design process is not linear. There were many times where I had to go back to previous steps and do more user testing to help validate my design decisions. In doing so, stepping back enabled me to take confident leaps forward. It showed me how iteration (aka failing often) is key to creating a successful digital app that is truly user-centered.

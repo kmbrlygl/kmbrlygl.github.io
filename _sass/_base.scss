@@ -271,4 +271,12 @@ pre {
     display: inline-block;
     font-size: 16px;
     border-radius: 10px;
- }
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: $brand-color-light;
+    border: 1px solid $brand-color-light;
+    color: white;
+}
