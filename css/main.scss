@@ -6,31 +6,31 @@
 
 
 // Our variables
-$base-font-family: "freight-text-pro", Georgia, serif;
+$base-font-family: 'Asap', sans-serif;
 $base-font-size:   19px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$italic-font_family: "freight-text-pro", Georgia, serif;
+$italic-font_family: "p22-mackinac-pro", Georgia, serif;
 $italic-font-weight: 400;
 $italic-line-height: 1.5;
 
-$headers-font-family: "filson-soft", Helvetica, Arial, sans-serif;
+$headers-font-family: "p22-mackinac-pro", Georgia, serif;
 $headers-font-size:   19px;
-$headers-font-weight: normal;
+$headers-font-weight: 400;
 $headers-font-size:   $headers-font-size * 0.875;
 $headers-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #003B36;
 $background-color: #fdfdfd;
-$brand-color:      #B02F6A;
+$brand-color:      #2E5E5A;
 $brand-color-light: lighten($brand-color, 25%);
 $bleed-color:      #f7f7f7;
 
-$grey-color:       #828282;
+$grey-color:       #739491;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 

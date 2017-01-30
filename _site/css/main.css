@@ -10,8 +10,8 @@ body, p, blockquote, pre, dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 19px/1.5 "freight-text-pro", Georgia, serif;
-  color: #111;
+  font: 400 19px/1.5 "Asap", sans-serif;
+  color: #003B36;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -79,14 +79,14 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: 30px; }
+  padding-left: 60px; }
 
 li > ul,
 li > ol {
   margin-bottom: 0; }
 
 ul.work {
-  font-family: "freight-text-pro", Georgia, serif;
+  font-family: "Asap", sans-serif;
   font-weight: 400;
   font-size: 19px;
   font-style: italic;
@@ -102,9 +102,8 @@ li.work {
  * Headings
  */
 h1, h2, h3, h4, h5, h6, button {
-  font-family: "filson-soft", Helvetica, Arial, sans-serif;
-  font-weight: normal;
-  letter-spacing: 1px;
+  font-family: "p22-mackinac-pro", Georgia, serif;
+  font-weight: 400;
   margin-top: 60px;
   margin-bottom: 30px; }
 
@@ -112,26 +111,25 @@ h1, h2, h3, h4, h5, h6, button {
  * Links
  */
 a {
-  color: #B02F6A;
+  color: #2E5E5A;
   text-decoration: none; }
   a:visited {
-    color: #741f46; }
+    color: #152b29; }
   a:hover {
-    color: #111;
+    color: #003B36;
     text-decoration: underline; }
 
 /**
  * Blockquotes
  */
 blockquote {
-  font-family: "freight-text-pro", Georgia, serif;
+  font-family: "p22-mackinac-pro", Georgia, serif;
   font-style: italic;
   font-weight: 400;
-  color: #B02F6A;
-  border-left: 0px solid #e8e8e8;
+  color: #2E5E5A;
+  border-left: 0px solid #e7ecec;
   padding-left: 15px;
   font-size: 1.5em;
-  letter-spacing: 1px;
   margin-bottom: 20px; }
   blockquote > :last-child {
     margin-bottom: 0; }
@@ -142,7 +140,7 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid #e7ecec;
   border-radius: 3px;
   background-color: #eef; }
 
@@ -191,7 +189,7 @@ pre {
   height: 16px;
   vertical-align: middle; }
   .icon > svg path {
-    fill: #828282; }
+    fill: #739491; }
 
 /**
  * floating img
@@ -202,8 +200,8 @@ pre {
 
 button {
   background-color: #fdfdfd;
-  border: 1px solid #B02F6A;
-  color: #B02F6A;
+  border: 1px solid #2E5E5A;
+  color: #2E5E5A;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -215,29 +213,28 @@ button {
   transition-duration: 0.4s; }
 
 button:hover {
-  background-color: #dd81ab;
-  border: 1px solid #dd81ab;
+  background-color: #5cafa8;
+  border: 1px solid #5cafa8;
   color: white; }
 
 /**
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 5px solid #3b4d4b;
+  border-bottom: 1px solid #e7ecec;
   min-height: 56px;
   position: relative; }
 
 .site-title {
-  font-family: "filson-soft", Helvetica, Arial, sans-serif;
+  font-family: "Asap", sans-serif;
   font-size: 26px;
   font-weight: 400;
   line-height: 56px;
-  letter-spacing: 3px;
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #424242; }
+    color: #3b4d4b; }
 
 .site-nav {
   float: right;
@@ -245,7 +242,7 @@ button:hover {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #003B36;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
@@ -255,7 +252,7 @@ button:hover {
       top: 9px;
       right: 15px;
       background-color: #fdfdfd;
-      border: 1px solid #e8e8e8;
+      border: 1px solid #e7ecec;
       border-radius: 5px;
       text-align: right; }
       .site-nav .menu-icon {
@@ -270,7 +267,7 @@ button:hover {
           width: 18px;
           height: 15px; }
           .site-nav .menu-icon > svg path {
-            fill: #424242; }
+            fill: #3b4d4b; }
       .site-nav .trigger {
         clear: both;
         display: none; }
@@ -288,7 +285,7 @@ button:hover {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #e7ecec;
   padding: 30px 0; }
 
 .footer-heading {
@@ -302,7 +299,7 @@ button:hover {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #828282;
+  color: #739491;
   margin-left: -15px; }
 
 .footer-col {
@@ -356,9 +353,9 @@ button:hover {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-family: "filson-soft", Helvetica, Arial, sans-serif;
+  font-family: "p22-mackinac-pro", Georgia, serif;
   font-size: 16.625px;
-  color: #828282; }
+  color: #739491; }
 
 .post-link {
   display: block;
@@ -399,7 +396,6 @@ button:hover {
 
 .post-title {
   font-size: 42px;
-  letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {
     .post-title {
