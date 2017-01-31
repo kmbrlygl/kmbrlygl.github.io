@@ -4,11 +4,11 @@
     <title>KMBRLYGL's Design Portfolio</title>
     <description>Digital stomping grounds of a visual designer, Kimberly Gail.
 </description>
-    <link>https://kmbrlygl.github.io/</link>
-    <atom:link href="https://kmbrlygl.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Jan 2017 22:06:48 -0800</pubDate>
-    <lastBuildDate>Sun, 29 Jan 2017 22:06:48 -0800</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 30 Jan 2017 23:58:52 -0800</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2017 23:58:52 -0800</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>All Together Mobile App</title>
@@ -109,8 +109,8 @@
 &lt;p&gt;My biggest takeaway from this course was how the product design process is not linear. There were many times where I had to go back to previous steps and do more user testing to help validate my design decisions. In doing so, stepping back enabled me to take confident leaps forward. It showed me how iteration (aka failing often) is key to creating a successful digital app that is truly user-centered.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Jan 2017 18:31:49 -0800</pubDate>
-        <link>https://kmbrlygl.github.io/work/alltogether/</link>
-        <guid isPermaLink="true">https://kmbrlygl.github.io/work/alltogether/</guid>
+        <link>http://localhost:4000/work/alltogether/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/alltogether/</guid>
         
         
         <category>digital</category>
@@ -160,8 +160,8 @@
 &lt;img src=&quot;/assets/R1600_brochure.jpg&quot; alt=&quot;Reach 1600 brochure&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Sep 2016 23:31:49 -0700</pubDate>
-        <link>https://kmbrlygl.github.io/work/reach1600/</link>
-        <guid isPermaLink="true">https://kmbrlygl.github.io/work/reach1600/</guid>
+        <link>http://localhost:4000/work/reach1600/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/reach1600/</guid>
         
         
         <category>branding</category>
@@ -207,8 +207,8 @@
 &lt;p&gt;Working under a short time constraint, it was amazing to see how much a team can put together. This taught me to trust in your team, our ideas and product. It taught me the how to trust in your design and make the best of what you can in the time you’re given. This meant stripping it down to the simple necessities to convey the heart of your product.&lt;/p&gt;
 </description>
         <pubDate>Fri, 16 Sep 2016 23:31:49 -0700</pubDate>
-        <link>https://kmbrlygl.github.io/work/mailsift/</link>
-        <guid isPermaLink="true">https://kmbrlygl.github.io/work/mailsift/</guid>
+        <link>http://localhost:4000/work/mailsift/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/mailsift/</guid>
         
         
         <category>digital</category>
@@ -249,8 +249,8 @@
 &lt;img src=&quot;/assets/OBC_spread_1.jpg&quot; alt=&quot;OBC Catalog Spread&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Sep 2016 23:31:49 -0700</pubDate>
-        <link>https://kmbrlygl.github.io/work/obc/</link>
-        <guid isPermaLink="true">https://kmbrlygl.github.io/work/obc/</guid>
+        <link>http://localhost:4000/work/obc/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/obc/</guid>
         
         
         <category>artdirection</category>
@@ -295,8 +295,8 @@
 &lt;p&gt;&lt;a href=&quot;https://marvelapp.com/ded70e/screen/10584891&quot; title=&quot;Hoopla Prototype&quot;&gt;View our prototype here!&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Sep 2016 23:31:49 -0700</pubDate>
-        <link>https://kmbrlygl.github.io/work/hoopla/</link>
-        <guid isPermaLink="true">https://kmbrlygl.github.io/work/hoopla/</guid>
+        <link>http://localhost:4000/work/hoopla/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/hoopla/</guid>
         
         
         <category>digital</category>
@@ -319,8 +319,8 @@
 &lt;img src=&quot;/assets/lettering/sick.jpg&quot; alt=&quot;lettering bottom&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 13 Sep 2016 23:31:49 -0700</pubDate>
-        <link>https://kmbrlygl.github.io/work/handlettering/</link>
-        <guid isPermaLink="true">https://kmbrlygl.github.io/work/handlettering/</guid>
+        <link>http://localhost:4000/work/handlettering/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/handlettering/</guid>
         
         
         <category>lettering</category>

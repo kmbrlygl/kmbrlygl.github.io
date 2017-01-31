@@ -4,9 +4,9 @@ title:  "All Together Mobile App"
 date:   2017-01-09 19:31:49 -0700
 categories: digital
 thumbnail: assets/allt_thumb.jpg
-caption: "All Together is an event planning mobile app that helps bring people together in an easy, organized and fun way."
+caption: "All Together is an event planning mobile app that helps bring people together in an fun, easy, and organized way."
 type: "mobile app"
-intro: "All Together helps bring people together in an easy, organized and fun way."
+intro: "All Together helps bring people together in an fun, easy, and organized way."
 ---
 # Role
 User research, user interface, rapid prototyping

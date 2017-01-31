@@ -159,23 +159,39 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(800px - (30px * 2));
-  max-width: calc(800px - (30px * 2));
+  max-width: -webkit-calc(900px - (30px * 2));
+  max-width: calc(900px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(800px - (30px));
-      max-width: calc(800px - (30px));
+      max-width: -webkit-calc(900px - (30px));
+      max-width: calc(900px - (30px));
+      padding-right: 15px;
+      padding-left: 15px; } }
+
+/**
+ * posts
+ */
+.posts {
+  max-width: 700px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px; }
+  @media screen and (max-width: 600px) {
+    .posts {
+      max-width: -webkit-calc(700px - (30px));
+      max-width: calc(700px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
 /**
  * Clearfix
  */
-.wrapper:after, .footer-col-wrapper:after, .intro:after {
+.wrapper:after, .posts:after, .footer-col-wrapper:after, .intro:after {
   content: "";
   display: table;
   clear: both; }
@@ -371,19 +387,19 @@ button:hover {
 
 .intro {
   padding: 30px 60px 100px 60px;
-  max-width: -webkit-calc(800px - (30px * 2));
-  max-width: calc(800px - (30px * 2));
+  max-width: -webkit-calc(900px - (30px * 2));
+  max-width: calc(900px - (30px * 2));
   margin-right: auto;
   margin-left: auto; }
   @media screen and (max-width: 800px) {
     .intro {
-      max-width: -webkit-calc(800px - (30px));
-      max-width: calc(800px - (30px));
+      max-width: -webkit-calc(900px - (30px));
+      max-width: calc(900px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
 .about {
-  width: 800px;
+  width: 900px;
   padding-left: 30px;
   padding-right: 30px;
   margin: auto; }
