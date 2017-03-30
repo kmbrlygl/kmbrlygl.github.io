@@ -83,22 +83,25 @@ I worked towards a UI that had a modern, fun and reliable feel. Purple as modern
 
 My initial UI captured the gist of what I wanted to go for (simple and fun, with actionable items and overview), but it still needed some work. Before attempting to spend tons of hours on making it pixel perfect, I went and tested it out on 3 users and got some feedback.
 
-> ...my brain feels a little overloaded with information because it all looks like one block of text.
-> Some of the actions and certain information seem more important than others but are not organized that way in the app
+> "...my brain feels a little overloaded with information because it all looks like one block of text."
+
+> "Some of the actions and certain information seem more important than others but are not organized that way in the app..."
 
 In doing this, I was able to prioritize and tackle the most problematic areas in the design, which were:
 
 1. Possibly too much information presented
 2. Prioritization of tasks 
+3. Lack of strong visual hierarchy
 
 # Final Iteration (For Now)
-After multiple iterations, my final design came about from
+After multiple iterations, my final design came about from: 
 
-1. Strengthening the visual heirarchy, scaling back color
+1. Strengthening the visual heirarchy
+2. Scaling back color
 2. Simplifying flows
-3. Creating more whitespace for the design to breathe. 
+3. Creating more whitespace for the design to breathe 
 
-Hereafter, I am thinking about more clever ways to display complex and lengthy information and improving the visual design.
+Hereafter, I am thinking about more clever ways to display complex and lengthy information and improving the visual design. Stay posted on future updates in the next couple of months! 
 
 ![All Together Final Screens](/assets/allt_screens.png)
 
