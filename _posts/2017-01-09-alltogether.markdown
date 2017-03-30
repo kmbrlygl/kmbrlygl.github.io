@@ -31,7 +31,7 @@ All Together is an event planning app that aims to assist hosts in all the impor
 I developed this app while taking a 6-week part-time course with [Whitespace](http://whitespacecrew.com/), a design accelerator program in San Francisco.
 
 # Target Market and Competitive Analysis
-Once I decided I wanted to work on an event planning tool for event hosts, I went straight into brainstorming and researching my target market.
+For this course, I decided I wanted to work on an event planning tool for event hosts. With that established, I went straight into brainstorming and researching my target market.
 
 ![All Together Empathy Map](/assets/empathymap.jpg)
 
@@ -55,12 +55,12 @@ To help define more of the parameters of my product and pinpoint my user’s big
 
 > On the day of the party, I want everyone to arrive on time with what they signed up for, so that **it can be successful and everyone has a good time.**
 
-Essentially, the host wants everyone to work towards one goal (celebrate a birthday, etc.) and enjoy each other's company. I leveraged this story to direct my design decisions to to address a specific use case.  
+Essentially, the host wants everyone to work towards one goal (celebrate a birthday, etc.) and enjoy each other's company. I leveraged this story to direct my design decisions to address this specific use case.  
 
 # Paper Prototypes and Initial User Testing
 ![All Together paper prototypes](/assets/paperproto.jpg)
 
-After defining the important user details and a general idea of the functionalities of the app, I put it straight to paper and started creating rough paper prototypes. This ended up being my wireframes and testing them out on real people.
+After defining the important user details and a general idea of the functionalities of the app, I put it straight to paper and created rough paper prototypes. These ended up being the wireframes that I used to test the functionalities out on real people.
 
 ![All Together user testing](/assets/usertesting_allt.jpg)
 
@@ -71,7 +71,7 @@ The feedback revealed to me:
 - What cause confusion (i.e. using legends, the different connotations of words and labels I set up)
 
 # Visual Design and Iterations
-With my apps functionalities validated by my user testing, I was ready to dive into designing the app with some confidence. I put together a style tile conveying my app’s aesthetics through color, type, and graphic stylings and applied to to my interface.
+With my apps functionalities validated by my user testing, I was ready to dive into designing the app with some confidence. I put together a style tile conveying my app’s aesthetics through color, type, and graphic stylings and applied to my interface.
 
 [comment]: # ![All Together style tile](/assets/allt_style_tile.png)
 
@@ -81,15 +81,24 @@ I worked towards a UI that had a modern, fun and reliable feel. Purple as modern
 
 ![All Together 1st UI Iteration](/assets/allt_1_it.png)
 
-My initial UI captured the gist of what I wanted to go for (simple and fun, with actionable items and overview), but it still needed some work.
+My initial UI captured the gist of what I wanted to go for (simple and fun, with actionable items and overview), but it still needed some work. Before attempting to spend tons of hours on making it pixel perfect, I went and tested it out on 3 users and got some feedback.
 
-Before attempting to spend tons of hours on making it pixel perfect, I went and tested it out on users. In doing so, I was able to prioritize and tackle the most problematic areas in the design:
+> ...my brain feels a little overloaded with information because it all looks like one block of text.
+> Some of the actions and certain information seem more important than others but are not organized that way in the app
 
-- ..my brain feels a little overloaded with information because it all looks like one block of text.
-- Some of the actions and certain information seem more important than others but are not organized that way in the app
+In doing this, I was able to prioritize and tackle the most problematic areas in the design, which were:
+
+1. Possibly too much information presented
+2. Prioritization of tasks 
 
 # Final Iteration (For Now)
-After multiple iterations, my final design came about from scaling back color the color, simplifying flows, create more room and whitespace for the design to breathe, and thinking about clever ways to display complex information.
+After multiple iterations, my final design came about from
+
+1. Strengthening the visual heirarchy, scaling back color
+2. Simplifying flows
+3. Creating more whitespace for the design to breathe. 
+
+Hereafter, I am thinking about more clever ways to display complex and lengthy information and improving the visual design.
 
 ![All Together Final Screens](/assets/allt_screens.png)
 
