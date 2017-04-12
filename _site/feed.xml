@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Jan 2017 23:58:52 -0800</pubDate>
-    <lastBuildDate>Mon, 30 Jan 2017 23:58:52 -0800</lastBuildDate>
+    <pubDate>Tue, 11 Apr 2017 22:10:41 -0700</pubDate>
+    <lastBuildDate>Tue, 11 Apr 2017 22:10:41 -0700</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -35,7 +35,7 @@
 &lt;p&gt;I developed this app while taking a 6-week part-time course with &lt;a href=&quot;http://whitespacecrew.com/&quot;&gt;Whitespace&lt;/a&gt;, a design accelerator program in San Francisco.&lt;/p&gt;
 
 &lt;h1 id=&quot;target-market-and-competitive-analysis&quot;&gt;Target Market and Competitive Analysis&lt;/h1&gt;
-&lt;p&gt;Once I decided I wanted to work on an event planning tool for event hosts, I went straight into brainstorming and researching my target market.&lt;/p&gt;
+&lt;p&gt;For this course, I decided I wanted to work on an event planning tool for event hosts. With that established, I went straight into brainstorming and researching my target market.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/empathymap.jpg&quot; alt=&quot;All Together Empathy Map&quot; /&gt;&lt;/p&gt;
 
@@ -63,12 +63,12 @@
   &lt;p&gt;On the day of the party, I want everyone to arrive on time with what they signed up for, so that &lt;strong&gt;it can be successful and everyone has a good time.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Essentially, the host wants everyone to work towards one goal (celebrate a birthday, etc.) and enjoy each other’s company. I leveraged this story to direct my design decisions to to address a specific use case.&lt;/p&gt;
+&lt;p&gt;Essentially, the host wants everyone to work towards one goal (celebrate a birthday, etc.) and enjoy each other’s company. I leveraged this story to direct my design decisions to address this specific use case.&lt;/p&gt;
 
 &lt;h1 id=&quot;paper-prototypes-and-initial-user-testing&quot;&gt;Paper Prototypes and Initial User Testing&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/paperproto.jpg&quot; alt=&quot;All Together paper prototypes&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;After defining the important user details and a general idea of the functionalities of the app, I put it straight to paper and started creating rough paper prototypes. This ended up being my wireframes and testing them out on real people.&lt;/p&gt;
+&lt;p&gt;After defining the important user details and a general idea of the functionalities of the app, I put it straight to paper and created rough paper prototypes. These ended up being the wireframes that I used to test the functionalities out on real people.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/usertesting_allt.jpg&quot; alt=&quot;All Together user testing&quot; /&gt;&lt;/p&gt;
 
@@ -81,7 +81,7 @@
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;visual-design-and-iterations&quot;&gt;Visual Design and Iterations&lt;/h1&gt;
-&lt;p&gt;With my apps functionalities validated by my user testing, I was ready to dive into designing the app with some confidence. I put together a style tile conveying my app’s aesthetics through color, type, and graphic stylings and applied to to my interface.&lt;/p&gt;
+&lt;p&gt;With my apps functionalities validated by my user testing, I was ready to dive into designing the app with some confidence. I put together a style tile conveying my app’s aesthetics through color, type, and graphic stylings and applied to my interface.&lt;/p&gt;
 
 &lt;p&gt;I worked towards a UI that had a modern, fun and reliable feel. Purple as modern, orange as fun and a deep blue-green to ground everything out. I stuck to mostly using shapes with rounded edges to reaffirm a feeling of friendliness and fun.&lt;/p&gt;
 
@@ -89,17 +89,35 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/allt_1_it.png&quot; alt=&quot;All Together 1st UI Iteration&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;My initial UI captured the gist of what I wanted to go for (simple and fun, with actionable items and overview), but it still needed some work.&lt;/p&gt;
+&lt;p&gt;My initial UI captured the gist of what I wanted to go for (simple and fun, with actionable items and overview), but it still needed some work. Before attempting to spend tons of hours on making it pixel perfect, I went and tested it out on 3 users and got some feedback.&lt;/p&gt;
 
-&lt;p&gt;Before attempting to spend tons of hours on making it pixel perfect, I went and tested it out on users. In doing so, I was able to prioritize and tackle the most problematic areas in the design:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“…my brain feels a little overloaded with information because it all looks like one block of text.”&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;..my brain feels a little overloaded with information because it all looks like one block of text.&lt;/li&gt;
-  &lt;li&gt;Some of the actions and certain information seem more important than others but are not organized that way in the app&lt;/li&gt;
-&lt;/ul&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Some of the actions and certain information seem more important than others but are not organized that way in the app…”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In doing this, I was able to prioritize and tackle the most problematic areas in the design, which were:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Possibly too much information presented&lt;/li&gt;
+  &lt;li&gt;Prioritization of tasks&lt;/li&gt;
+  &lt;li&gt;Lack of strong visual hierarchy&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h1 id=&quot;final-iteration-for-now&quot;&gt;Final Iteration (For Now)&lt;/h1&gt;
-&lt;p&gt;After multiple iterations, my final design came about from scaling back color the color, simplifying flows, create more room and whitespace for the design to breathe, and thinking about clever ways to display complex information.&lt;/p&gt;
+&lt;p&gt;After multiple iterations, my final design came about from:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Strengthening the visual heirarchy&lt;/li&gt;
+  &lt;li&gt;Scaling back color&lt;/li&gt;
+  &lt;li&gt;Simplifying flows&lt;/li&gt;
+  &lt;li&gt;Creating more whitespace for the design to breathe&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Hereafter, I am thinking about more clever ways to display complex and lengthy information and improving the visual design. Stay posted on future updates in the next couple of months!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/allt_screens.png&quot; alt=&quot;All Together Final Screens&quot; /&gt;&lt;/p&gt;
 
@@ -310,7 +328,7 @@
 
 &lt;p&gt;To foster my design curiosities, I practiced hand lettering in my free time. It helped me tremendously as a creative, having to go back to basics and putting pen to paper. It allowed me to tap into creativity in a different way, and broke up the monotony of being in front of a computer. Since then, I’ve been incorporating it into my work to add a personable touch. I’ve produced some of my designs onto textiles and cards, and I even taught a small workshop on art-deco style hand lettered cards in 2015.&lt;/p&gt;
 
-&lt;h1 id=&quot;i-post-semi-regularly-on-my-instagram-things-my-hands-createhttpswwwinstagramcomthingsmyhandscreate-instragram&quot;&gt;I post semi-regularly on my instagram: &lt;a href=&quot;https://www.instagram.com/thingsmyhandscreate/&quot; title=&quot;Instragram&quot;&gt;things my hands create&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&quot;i-post-somewhat-regularly-on-my-instagram-things-my-hands-createhttpswwwinstagramcomthingsmyhandscreate-instagram&quot;&gt;I post somewhat regularly on my instagram: &lt;a href=&quot;https://www.instagram.com/thingsmyhandscreate/&quot; title=&quot;Instagram&quot;&gt;things my hands create&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/lettering/vibes.jpg&quot; alt=&quot;lettering top&quot; /&gt;
 &lt;img src=&quot;/assets/lettering/baroness.jpg&quot; alt=&quot;lettering top&quot; /&gt;
