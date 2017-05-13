@@ -11,12 +11,13 @@ intro: "All Together helps bring people together in an fun, easy, and organized 
 # Role
 User research, user interface, rapid prototyping
 
-
-# All Together
-<video height="400px" autoplay loop class="floatR" margin-bottom="20px">
+<video height="450px" autoplay loop class="VidFloatR">
   <source src="/assets/video/overview_allt.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
+# All Together
 
 All Together is an event planning app that aims to assist hosts in all the important aspects of event planning in one centralized place. It focuses on:
 
