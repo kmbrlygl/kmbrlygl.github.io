@@ -96,6 +96,10 @@ ul, ol {
     padding-left: 2em;
 }
 
+ol {
+  list-style: decimal-leading-zero;
+}
+
 ol li {
   padding-left: .5em;
 }
