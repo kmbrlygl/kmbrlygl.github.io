@@ -93,7 +93,11 @@ figcaption {
  * Lists
  */
 ul, ol {
-    padding-left: 0;
+    padding-left: 2em;
+}
+
+ol li {
+  padding-left: .5em;
 }
 
 li {

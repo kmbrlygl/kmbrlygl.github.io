@@ -11,11 +11,13 @@ intro: "All Together helps bring people together in an fun, easy, and organized 
 # Role
 User research, user interface, rapid prototyping
 
+
 # All Together
-<video height="375px" autoplay loop class="floatL" margin-bottom="20px">
+<video height="400px" autoplay loop class="floatR" margin-bottom="20px">
   <source src="/assets/video/overview_allt.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 All Together is an event planning app that aims to assist hosts in all the important aspects of event planning in one centralized place. It focuses on:
 
 1. Creating a To-Do list
@@ -24,8 +26,6 @@ All Together is an event planning app that aims to assist hosts in all the impor
 4. Keeping track of your events and guests
 
 <button type="button" onClick="window.open('https://marvelapp.com/1g627f3')" alt="All Together prototype on Marvel">View the prototype in Marvel!</button>
-
-
 
 # Background
 I developed this app while taking a 6-week part-time course with [Whitespace](http://whitespacecrew.com/), a design accelerator program in San Francisco.
@@ -90,18 +90,18 @@ My initial UI captured the gist of what I wanted to go for (simple and fun, with
 In doing this, I was able to prioritize and tackle the most problematic areas in the design, which were:
 
 1. Possibly too much information presented
-2. Prioritization of tasks 
+2. Prioritization of tasks
 3. Lack of strong visual hierarchy
 
 # Final Iteration (For Now)
-After multiple iterations, my final design came about from: 
+After multiple iterations, my final design came about from:
 
 1. Strengthening the visual heirarchy
 2. Scaling back color
 2. Simplifying flows
-3. Creating more whitespace for the design to breathe 
+3. Creating more whitespace for the design to breathe
 
-Hereafter, I am thinking about more clever ways to display complex and lengthy information and improving the visual design. Stay posted on future updates in the next couple of months! 
+Hereafter, I am thinking about more clever ways to display complex and lengthy information and improving the visual design. Stay posted on future updates in the next couple of months!
 
 ![All Together Final Screens](/assets/allt_screens.png)
 
