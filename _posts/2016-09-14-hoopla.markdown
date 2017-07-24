@@ -5,7 +5,7 @@ date:   2016-09-14 23:31:49 -0700
 categories: UI/UX
 thumbnail: assets/hoopla_thumb.jpg
 caption: "Hoopla is a fun and engaging event organization app to help college students connect with student groups, events and resources available to them on campus."
-type: "School Project"
+type: "UI/UX, School Project"
 intro: "Hoopla is a mobile app project that helps college students connect with student groups, events and resources available to them on their campus."
 ---
 # Role

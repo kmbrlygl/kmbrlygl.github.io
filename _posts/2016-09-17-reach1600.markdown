@@ -5,7 +5,7 @@ date:   2016-09-17 23:31:49 -0700
 categories: branding
 thumbnail: assets/Reach1600_thumb.jpg
 caption: "Reach 1600 is a non-profit organization based in Oakland, CA that helps high school students succeed on the SAT."
-type: "Freelance"
+type: "Freelance, Branding"
 intro: "Branding and Identity for a new non-profit based in Oakland that helps high school students succeed on the SAT."
 ---
 # Role

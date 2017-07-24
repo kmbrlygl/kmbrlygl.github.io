@@ -5,7 +5,7 @@ date:   2017-01-09 19:31:49 -0700
 categories: UI/UX
 thumbnail: assets/allt_thumb.jpg
 caption: "All Together is an event planning mobile app that helps bring people together in an fun, easy, and organized way."
-type: "mobile app"
+type: "UI/UX"
 intro: "All Together helps bring people together in an fun, easy, and organized way."
 ---
 ## Role
