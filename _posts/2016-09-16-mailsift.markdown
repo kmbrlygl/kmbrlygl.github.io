@@ -24,18 +24,23 @@ After deciding on our app's name, I immediately started sketching out some ideas
 
 # Sketches → Digital drafts
 
-<img class="left" src="/assets/mailsift_sketches.jpg" width="400px">
+<div style="float: left; width: 25%;">
+<img class="left" src="/assets/mailsift_sketches.jpg">
+</div>
 
+<div style="float: right; width: 75%;" markdown="1">
+
+<p style="align: center;" markdown="1">
 ![MSLogoIdea](/assets/mailsift_logos-08.png)
-![MSLogoIdea](/assets/mailsift_logos-09.png)<br>
-![MSLogoIdea](/assets/mailsift_logos-05.png)
-![MSLogoIdea](/assets/mailsift_logos-06.png)<br>
+![MSLogoIdea](/assets/mailsift_logos-06.png)
 ![MSLogoIdea](/assets/mailsift_logos-07.png)
 ![MSLogoIdea](/assets/mailsift_logos-04.png)
+</p>
+</div>
 
 
 
-# Final logo and UI
+<h1 style="clear: both;">Final logo and UI</h1>
 We decided on a logo that combined all our favorite parts of the drafts I created. From there, I created a UI based on the idea that we wanted our app to demonstrated friendliness, fun, and ease-of-use.
 
 ![Final](/assets/mailsift_final_logo.png)
