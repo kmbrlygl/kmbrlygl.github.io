@@ -450,7 +450,8 @@ button:hover {
     }
   **/ }
   .post-content h2 {
-    font-size: 32px; }
+    font-size: 32px;
+    margin-bottom: 0.2875em; }
     @media screen and (max-width: 800px) {
       .post-content h2 {
         font-size: 28px; } }

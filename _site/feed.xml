@@ -6,13 +6,13 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Jul 2017 01:07:29 -0700</pubDate>
-    <lastBuildDate>Mon, 24 Jul 2017 01:07:29 -0700</lastBuildDate>
+    <pubDate>Mon, 24 Jul 2017 01:18:33 -0700</pubDate>
+    <lastBuildDate>Mon, 24 Jul 2017 01:18:33 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>All Together Mobile App</title>
-        <description>&lt;h1 id=&quot;role&quot;&gt;Role&lt;/h1&gt;
+        <description>&lt;h2 id=&quot;role&quot;&gt;Role&lt;/h2&gt;
 &lt;p&gt;User research, user interface, rapid prototyping and wireframing&lt;/p&gt;
 
 &lt;video height=&quot;450px&quot; autoplay=&quot;&quot; loop=&quot;&quot; class=&quot;VidFloatR&quot;&gt;
@@ -20,7 +20,7 @@
   Your browser does not support the video tag.
 &lt;/video&gt;
 
-&lt;h1 id=&quot;all-together&quot;&gt;All Together&lt;/h1&gt;
+&lt;h2 id=&quot;all-together&quot;&gt;All Together&lt;/h2&gt;
 
 &lt;p&gt;All Together is an event planning app that aims to assist hosts in all the important aspects of event planning in one centralized place. It focuses on:&lt;/p&gt;
 
@@ -33,10 +33,10 @@
 
 &lt;p&gt;&lt;button type=&quot;button&quot; onclick=&quot;window.open('https://marvelapp.com/1g627f3')&quot; alt=&quot;All Together prototype on Marvel&quot;&gt;View the prototype in Marvel!&lt;/button&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
 &lt;p&gt;I developed this app while taking a 6-week part-time course with &lt;a href=&quot;http://whitespacecrew.com/&quot;&gt;Whitespace&lt;/a&gt;, a design accelerator program in San Francisco.&lt;/p&gt;
 
-&lt;h1 id=&quot;target-market-and-competitive-analysis&quot;&gt;Target Market and Competitive Analysis&lt;/h1&gt;
+&lt;h2 id=&quot;target-market-and-competitive-analysis&quot;&gt;Target Market and Competitive Analysis&lt;/h2&gt;
 &lt;p&gt;For this course, I decided I wanted to work on an event planning tool for event hosts. With that established, I went straight into brainstorming and researching my target market.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/empathymap.jpg&quot; alt=&quot;All Together Empathy Map&quot; /&gt;&lt;/p&gt;
@@ -56,9 +56,10 @@
 
 &lt;p&gt;After determining how these apps facilitated communication, I began to gravitate towards an approach where messaging was the main conduit for communication between the host and the guests.&lt;/p&gt;
 
-&lt;h1 id=&quot;user-story-and-storyboard&quot;&gt;User Story and Storyboard&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/Storyboard.jpg&quot; alt=&quot;All Together User Storyboard&quot; /&gt;&lt;/p&gt;
-
+&lt;h2 id=&quot;user-story-and-storyboard&quot;&gt;User Story and Storyboard&lt;/h2&gt;
+&lt;div style=&quot;width: 125%; margin-left: -5em;&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/Storyboard.jpg&quot; alt=&quot;All Together User Storyboard&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;To help define more of the parameters of my product and pinpoint my user’s big motivator, I constructed a user story:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -67,7 +68,7 @@
 
 &lt;p&gt;Essentially, the host wants everyone to work towards one goal (celebrate a birthday, etc.) and enjoy each other’s company. I leveraged this story to direct my design decisions to address this specific use case.&lt;/p&gt;
 
-&lt;h1 id=&quot;paper-prototypes-and-initial-user-testing&quot;&gt;Paper Prototypes and Initial User Testing&lt;/h1&gt;
+&lt;h2 id=&quot;paper-prototypes-and-initial-user-testing&quot;&gt;Paper Prototypes and Initial User Testing&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/paperproto.jpg&quot; alt=&quot;All Together paper prototypes&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After defining the important user details and a general idea of the functionalities of the app, I put it straight to paper and created rough paper prototypes. These ended up being the wireframes that I used to test the functionalities out on real people.&lt;/p&gt;
@@ -82,7 +83,7 @@
   &lt;li&gt;What cause confusion (i.e. using legends, the different connotations of words and labels I set up)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;visual-design-and-iterations&quot;&gt;Visual Design and Iterations&lt;/h1&gt;
+&lt;h2 id=&quot;visual-design-and-iterations&quot;&gt;Visual Design and Iterations&lt;/h2&gt;
 &lt;p&gt;With my apps functionalities validated by my user testing, I was ready to dive into designing the app with some confidence. I put together a style tile conveying my app’s aesthetics through color, type, and graphic stylings and applied to my interface.&lt;/p&gt;
 
 &lt;p&gt;I worked towards a UI that had a modern, fun and reliable feel. Purple as modern, orange as fun and a deep blue-green to ground everything out. I stuck to mostly using shapes with rounded edges to reaffirm a feeling of friendliness and fun.&lt;/p&gt;
@@ -109,7 +110,7 @@
   &lt;li&gt;Lack of strong visual hierarchy&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h1 id=&quot;final-iteration-for-now&quot;&gt;Final Iteration (For Now)&lt;/h1&gt;
+&lt;h2 id=&quot;final-iteration-for-now&quot;&gt;Final Iteration (For Now)&lt;/h2&gt;
 &lt;p&gt;After multiple iterations, my final design came about from:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -126,7 +127,7 @@
 &lt;/div&gt;
 &lt;p&gt;&lt;button type=&quot;button&quot; onclick=&quot;window.open('https://marvelapp.com/1g627f3')&quot; alt=&quot;All Together prototype on Marvel&quot;&gt;View the prototype in Marvel!&lt;/button&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;take-away&quot;&gt;Take Away&lt;/h1&gt;
+&lt;h2 id=&quot;take-away&quot;&gt;Take Away&lt;/h2&gt;
 &lt;p&gt;My biggest takeaway from this course was how the product design process is not linear. There were many times where I had to go back to previous steps and do more user testing to help validate my design decisions. In doing so, stepping back enabled me to take confident leaps forward. It showed me how iteration (aka failing often) is key to creating a successful digital app that is truly user-centered.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Jan 2017 18:31:49 -0800</pubDate>
