@@ -14,3 +14,6 @@ Big thanks to [a super cool] **Kat** for writing this [Medium post](https://medi
  - Revisit button style(s)
  - Reconsider header font (sans serif)
  - Clean up CSS files
+- 7/24/17: Update new projects
+ - Reach 1600's Prize Winning Poster
+ - Hacking for Humanity: Please More Self Care
