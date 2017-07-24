@@ -33,7 +33,7 @@ p.hanging {
 h1, h2, h3, h4, h5, h6,
 p, pre, ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 15px; }
+  margin-bottom: 1em; }
 
 /**
  * Images
@@ -59,7 +59,7 @@ img[alt="about"] {
   max-width: 50%;
   display: block;
   float: right;
-  padding: 0px 0px 0px 18px; }
+  padding: 0px 0px 0px 1.2em; }
 
 .process {
   width: 75%;
@@ -97,21 +97,21 @@ ul.work {
   font-size: 19px;
   font-style: italic;
   letter-spacing: 0px;
-  margin-top: 63px;
+  margin-top: 4.2em;
   margin-left: 0;
   list-style: none; }
 
 li.work {
-  margin-bottom: 30px; }
+  margin-bottom: 2em; }
 
 /**
  * Headings
  */
 h1, h2, h3, h4, h5, h6, button {
   font-family: "p22-mackinac-pro", Georgia, serif;
-  font-weight: 400;
-  margin-top: 60px;
-  margin-bottom: 30px; }
+  font-weight: 500;
+  margin-top: 4em;
+  margin-bottom: 2em; }
 
 /**
  * Links
@@ -134,7 +134,7 @@ blockquote {
   font-weight: 400;
   color: #2E5E5A;
   border-left: 0px solid #e7ecec;
-  padding-left: 15px;
+  padding-left: 1em;
   font-size: 1.5em;
   margin-bottom: 20px; }
   blockquote > :last-child {
@@ -165,18 +165,18 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(900px - (30px * 2));
-  max-width: calc(900px - (30px * 2));
+  max-width: -webkit-calc(900px - (2em * 2));
+  max-width: calc(900px - (2em * 2));
   margin-right: auto;
   margin-left: auto;
-  padding-right: 30px;
-  padding-left: 30px; }
+  padding-right: 2em;
+  padding-left: 2em; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(900px - (30px));
-      max-width: calc(900px - (30px));
-      padding-right: 15px;
-      padding-left: 15px; } }
+      max-width: -webkit-calc(900px - (2em));
+      max-width: calc(900px - (2em));
+      padding-right: 1em;
+      padding-left: 1em; } }
 
 /**
  * posts
@@ -185,14 +185,14 @@ pre {
   max-width: 700px;
   margin-right: auto;
   margin-left: auto;
-  padding-right: 30px;
-  padding-left: 30px; }
+  padding-right: 2em;
+  padding-left: 2em; }
   @media screen and (max-width: 600px) {
     .posts {
-      max-width: -webkit-calc(700px - (30px));
-      max-width: calc(700px - (30px));
-      padding-right: 15px;
-      padding-left: 15px; } }
+      max-width: -webkit-calc(700px - (2em));
+      max-width: calc(700px - (2em));
+      padding-right: 1em;
+      padding-left: 1em; } }
 
 /**
  * Clearfix
@@ -218,7 +218,7 @@ pre {
  **/
 .left {
   float: left;
-  padding: 0 0 30px 0; }
+  padding: 0 0 2em 0; }
 
 button {
   background-color: #fdfdfd;
@@ -280,7 +280,7 @@ button:hover {
     .site-nav {
       position: absolute;
       top: 9px;
-      right: 15px;
+      right: 1em;
       background-color: #fdfdfd;
       border: 1px solid #e7ecec;
       border-radius: 5px;
@@ -316,11 +316,11 @@ button:hover {
  */
 .site-footer {
   border-top: 1px solid #e7ecec;
-  padding: 30px 0; }
+  padding: 2em 0; }
 
 .footer-heading {
   font-size: 18px;
-  margin-bottom: 15px; }
+  margin-bottom: 1em; }
 
 .contact-list,
 .social-media-list {
@@ -330,43 +330,43 @@ button:hover {
 .footer-col-wrapper {
   font-size: 15px;
   color: #739491;
-  margin-left: -15px; }
+  margin-left: -1em; }
 
 .footer-col {
   float: left;
-  margin-bottom: 15px;
-  padding-left: 15px; }
+  margin-bottom: 1em;
+  padding-left: 1em; }
 
 .footer-col-1 {
-  width: -webkit-calc(33% - (30px / 2));
-  width: calc(33% - (30px / 2)); }
+  width: -webkit-calc(33% - (2em / 2));
+  width: calc(33% - (2em / 2)); }
 
 .footer-col-2 {
-  width: -webkit-calc(33% - (30px / 2));
-  width: calc(33% - (30px / 2)); }
+  width: -webkit-calc(33% - (2em / 2));
+  width: calc(33% - (2em / 2)); }
 
 .footer-col-3 {
-  width: -webkit-calc(33% - (30px / 2));
-  width: calc(33% - (30px / 2)); }
+  width: -webkit-calc(33% - (2em / 2));
+  width: calc(33% - (2em / 2)); }
 
 .footer-col-2-3 {
-  width: -webkit-calc(66% - (30px / 2));
-  width: calc(66% - (30px / 2)); }
+  width: -webkit-calc(66% - (2em / 2));
+  width: calc(66% - (2em / 2)); }
 
 @media screen and (max-width: 800px) {
   .footer-col-1,
   .footer-col-2 {
-    width: -webkit-calc(50% - (30px / 2));
-    width: calc(50% - (30px / 2)); }
+    width: -webkit-calc(50% - (2em / 2));
+    width: calc(50% - (2em / 2)); }
 
   .footer-col-3 {
-    width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2)); } }
+    width: -webkit-calc(100% - (2em / 2));
+    width: calc(100% - (2em / 2)); } }
 @media screen and (max-width: 600px) {
   .footer-col {
     float: none;
-    width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2)); } }
+    width: -webkit-calc(100% - (2em / 2));
+    width: calc(100% - (2em / 2)); } }
 /**
  * Page content
  */
@@ -380,7 +380,7 @@ button:hover {
   margin-left: 0;
   list-style: none; }
   .post-list > li {
-    margin-bottom: 30px; }
+    margin-bottom: 2em; }
 
 .post-meta {
   font-family: "p22-mackinac-pro", Georgia, serif;
@@ -401,28 +401,28 @@ button:hover {
 
 .intro {
   padding: 30px 60px 100px 60px;
-  max-width: -webkit-calc(900px - (30px * 2));
-  max-width: calc(900px - (30px * 2));
+  max-width: -webkit-calc(900px - (2em * 2));
+  max-width: calc(900px - (2em * 2));
   margin-right: auto;
   margin-left: auto; }
   @media screen and (max-width: 800px) {
     .intro {
-      max-width: -webkit-calc(900px - (30px));
-      max-width: calc(900px - (30px));
-      padding-right: 15px;
-      padding-left: 15px; } }
+      max-width: -webkit-calc(900px - (2em));
+      max-width: calc(900px - (2em));
+      padding-right: 1em;
+      padding-left: 1em; } }
 
 .about {
   width: 900px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 2em;
+  padding-right: 2em;
   margin: auto; }
 
 /**
  * Posts
  */
 .post-header {
-  margin-bottom: 30px; }
+  margin-bottom: 2em; }
 
 .post-title {
   font-size: 42px;
@@ -432,7 +432,7 @@ button:hover {
       font-size: 36px; } }
 
 .post-content {
-  margin-bottom: 30px;
+  margin-bottom: 2em;
   /** Trying to make images larger than divs.
       img {
        display: block;
@@ -463,7 +463,7 @@ button:hover {
         font-size: 18px; } }
 
 .about-content {
-  margin-bottom: 30px; }
+  margin-bottom: 2em; }
 
 img[alt="lettering top"] {
   max-height: 300px;
