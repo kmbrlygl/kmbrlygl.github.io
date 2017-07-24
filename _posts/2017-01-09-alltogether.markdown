@@ -2,14 +2,14 @@
 layout: post
 title:  "All Together Mobile App"
 date:   2017-01-09 19:31:49 -0700
-categories: digital
+categories: UI/UX
 thumbnail: assets/allt_thumb.jpg
 caption: "All Together is an event planning mobile app that helps bring people together in an fun, easy, and organized way."
 type: "mobile app"
 intro: "All Together helps bring people together in an fun, easy, and organized way."
 ---
 # Role
-User research, user interface, rapid prototyping
+User research, user interface, rapid prototyping and wireframing
 
 <video height="450px" autoplay loop class="VidFloatR">
   <source src="/assets/video/overview_allt.mp4" type="video/mp4">
@@ -63,7 +63,7 @@ Essentially, the host wants everyone to work towards one goal (celebrate a birth
 
 After defining the important user details and a general idea of the functionalities of the app, I put it straight to paper and created rough paper prototypes. These ended up being the wireframes that I used to test the functionalities out on real people.
 
-![All Together user testing](/assets/usertesting_allt.jpg)
+<p style="text-align: center;"><img src="/assets/usertesting_allt.jpg" alt="All Together user testing"></p>
 
 The feedback revealed to me:
 
@@ -104,8 +104,9 @@ After multiple iterations, my final design came about from:
 
 Hereafter, I am thinking about more clever ways to display complex and lengthy information and improving the visual design. Stay posted on future updates in the next couple of months!
 
+<div style="width: 200%; padding-top: 1.25em; margin-left: -8em;" markdown="1">
 ![All Together Final Screens](/assets/allt_screens.png)
-
+</div>
 <button type="button" onClick="window.open('https://marvelapp.com/1g627f3')" alt="All Together prototype on Marvel">View the prototype in Marvel!</button>
 
 # Take Away

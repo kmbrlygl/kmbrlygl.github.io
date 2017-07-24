@@ -24,13 +24,14 @@ After deciding on our app's name, I immediately started sketching out some ideas
 
 # Sketches → Digital drafts
 
-<div style="float: left; width: 25%;">
-<img class="left" src="/assets/mailsift_sketches.jpg">
+<div style="float: left; width: 35%;">
+<p style="text-align: center;" markdown="1">
+<img class="left" src="/assets/mailsift_sketches.jpg"></p>
 </div>
 
-<div style="float: right; width: 75%;" markdown="1">
+<div style="float: right; width: 65%;" markdown="1">
 
-<p style="align: center;" markdown="1">
+<p style="text-align: center;" markdown="1">
 ![MSLogoIdea](/assets/mailsift_logos-08.png)
 ![MSLogoIdea](/assets/mailsift_logos-06.png)
 ![MSLogoIdea](/assets/mailsift_logos-07.png)
