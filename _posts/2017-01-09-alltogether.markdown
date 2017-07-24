@@ -8,7 +8,7 @@ caption: "All Together is an event planning mobile app that helps bring people t
 type: "mobile app"
 intro: "All Together helps bring people together in an fun, easy, and organized way."
 ---
-# Role
+## Role
 User research, user interface, rapid prototyping and wireframing
 
 <video height="450px" autoplay loop class="VidFloatR">
@@ -17,7 +17,7 @@ User research, user interface, rapid prototyping and wireframing
 </video>
 
 
-# All Together
+## All Together
 
 All Together is an event planning app that aims to assist hosts in all the important aspects of event planning in one centralized place. It focuses on:
 
@@ -28,10 +28,10 @@ All Together is an event planning app that aims to assist hosts in all the impor
 
 <button type="button" onClick="window.open('https://marvelapp.com/1g627f3')" alt="All Together prototype on Marvel">View the prototype in Marvel!</button>
 
-# Background
+## Background
 I developed this app while taking a 6-week part-time course with [Whitespace](http://whitespacecrew.com/), a design accelerator program in San Francisco.
 
-# Target Market and Competitive Analysis
+## Target Market and Competitive Analysis
 For this course, I decided I wanted to work on an event planning tool for event hosts. With that established, I went straight into brainstorming and researching my target market.
 
 ![All Together Empathy Map](/assets/empathymap.jpg)
@@ -49,16 +49,17 @@ Some apps that came up were:
 
 After determining how these apps facilitated communication, I began to gravitate towards an approach where messaging was the main conduit for communication between the host and the guests.
 
-# User Story and Storyboard
+## User Story and Storyboard
+<div style="width: 125%; margin-left: -5em;" markdown="1">
 ![All Together User Storyboard](/assets/Storyboard.jpg)
-
+</div>
 To help define more of the parameters of my product and pinpoint my user’s big motivator, I constructed a user story:
 
 > On the day of the party, I want everyone to arrive on time with what they signed up for, so that **it can be successful and everyone has a good time.**
 
 Essentially, the host wants everyone to work towards one goal (celebrate a birthday, etc.) and enjoy each other's company. I leveraged this story to direct my design decisions to address this specific use case.  
 
-# Paper Prototypes and Initial User Testing
+## Paper Prototypes and Initial User Testing
 ![All Together paper prototypes](/assets/paperproto.jpg)
 
 After defining the important user details and a general idea of the functionalities of the app, I put it straight to paper and created rough paper prototypes. These ended up being the wireframes that I used to test the functionalities out on real people.
@@ -71,7 +72,7 @@ The feedback revealed to me:
 - Things that people were looking for (task manager/to-do list) in my app
 - What cause confusion (i.e. using legends, the different connotations of words and labels I set up)
 
-# Visual Design and Iterations
+## Visual Design and Iterations
 With my apps functionalities validated by my user testing, I was ready to dive into designing the app with some confidence. I put together a style tile conveying my app’s aesthetics through color, type, and graphic stylings and applied to my interface.
 
 [comment]: # ![All Together style tile](/assets/allt_style_tile.png)
@@ -94,7 +95,7 @@ In doing this, I was able to prioritize and tackle the most problematic areas in
 2. Prioritization of tasks
 3. Lack of strong visual hierarchy
 
-# Final Iteration (For Now)
+## Final Iteration (For Now)
 After multiple iterations, my final design came about from:
 
 1. Strengthening the visual heirarchy
@@ -109,5 +110,5 @@ Hereafter, I am thinking about more clever ways to display complex and lengthy i
 </div>
 <button type="button" onClick="window.open('https://marvelapp.com/1g627f3')" alt="All Together prototype on Marvel">View the prototype in Marvel!</button>
 
-# Take Away
+## Take Away
 My biggest takeaway from this course was how the product design process is not linear. There were many times where I had to go back to previous steps and do more user testing to help validate my design decisions. In doing so, stepping back enabled me to take confident leaps forward. It showed me how iteration (aka failing often) is key to creating a successful digital app that is truly user-centered.
