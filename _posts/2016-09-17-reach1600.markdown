@@ -47,5 +47,8 @@ I've produced other materials such as an email template, trifold brochure, Googl
 ![Reach 1600 brochure front](/assets/R1600_brochure2.jpg)
 ![Reach 1600 brochure back ](/assets/R1600_brochure.jpg)
 
+This poster won second place at the Big Bang! Business Competition by UC Davis Institute for Innovation and Entrepreneurship:
+<div style="width: 125%; margin-left: -4.5em;" markdown="1">
 ![Reach 1600 IT for Society Poster](/assets/R1600_IT-for-Society-Poster-Session_mock.png)
-This poster won second place at the Big Bang! Business Competition by UC Davis Institute for Innovation and Entrepreneurship
+</div>
+
