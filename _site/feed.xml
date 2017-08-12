@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Jul 2017 01:25:23 -0700</pubDate>
-    <lastBuildDate>Mon, 24 Jul 2017 01:25:23 -0700</lastBuildDate>
+    <pubDate>Sat, 12 Aug 2017 16:18:14 -0700</pubDate>
+    <lastBuildDate>Sat, 12 Aug 2017 16:18:14 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -173,13 +173,16 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/Reach_1600_final_logo.png&quot; alt=&quot;Final&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;other-projects&quot;&gt;Other projects&lt;/h1&gt;
-&lt;p&gt;I’ve produced other projects such as an email template for MailChimp, and a trifold brochure to attract donors to the program in order to help keep it free for the high school students admitted.&lt;/p&gt;
+&lt;h1 id=&quot;marketing-materials&quot;&gt;Marketing Materials&lt;/h1&gt;
+&lt;p&gt;I’ve produced other materials such as an email template, trifold brochure, Google slide template, and conference poster.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/r1600_newsletters.jpg&quot; alt=&quot;Reach 1600 newsletter&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/R1600_brochure2.jpg&quot; alt=&quot;Reach 1600 brochure&quot; /&gt;
-&lt;img src=&quot;/assets/R1600_brochure.jpg&quot; alt=&quot;Reach 1600 brochure&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/R1600_brochure2.jpg&quot; alt=&quot;Reach 1600 brochure front&quot; /&gt;
+&lt;img src=&quot;/assets/R1600_brochure.jpg&quot; alt=&quot;Reach 1600 brochure back &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/R1600_IT-for-Society-Poster-Session_mock.png&quot; alt=&quot;Reach 1600 IT for Society Poster&quot; /&gt;
+This poster won second place at the Big Bang! Business Competition by UC Davis Institute for Innovation and Entrepreneurship&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Sep 2016 23:31:49 -0700</pubDate>
         <link>http://localhost:4000/work/reach1600/</link>

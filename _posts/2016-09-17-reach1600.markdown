@@ -39,10 +39,13 @@ The director ended up liking the alternative version of the second logo the most
 ![Final](/assets/Reach_1600_final_logo.png)
 
 
-# Other projects
-I've produced other projects such as an email template for MailChimp, and a trifold brochure to attract donors to the program in order to help keep it free for the high school students admitted.
+# Marketing Materials
+I've produced other materials such as an email template, trifold brochure, Google slide template, and conference poster. 
 
 ![Reach 1600 newsletter](/assets/r1600_newsletters.jpg)
 
-![Reach 1600 brochure](/assets/R1600_brochure2.jpg)
-![Reach 1600 brochure](/assets/R1600_brochure.jpg)
+![Reach 1600 brochure front](/assets/R1600_brochure2.jpg)
+![Reach 1600 brochure back ](/assets/R1600_brochure.jpg)
+
+![Reach 1600 IT for Society Poster](/assets/R1600_IT-for-Society-Poster-Session_mock.png)
+This poster won second place at the Big Bang! Business Competition by UC Davis Institute for Innovation and Entrepreneurship
