@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Aug 2017 16:38:11 -0700</pubDate>
-    <lastBuildDate>Sat, 12 Aug 2017 16:38:11 -0700</lastBuildDate>
+    <pubDate>Sat, 12 Aug 2017 16:40:41 -0700</pubDate>
+    <lastBuildDate>Sat, 12 Aug 2017 16:40:41 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -171,7 +171,7 @@
 &lt;h1 id=&quot;final-logo-and-colors&quot;&gt;Final logo and colors&lt;/h1&gt;
 &lt;p&gt;The director ended up liking the alternative version of the second logo the most, using the first color palette. So I refined it a bit more, and finalized on this design:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Reach_1600_final_logo.png&quot; alt=&quot;Final&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/assets/Reach_1600_final_logo.png&quot; alt=&quot;Final logo for Reach 1600&quot; style=&quot;margin-top: 1em;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;marketing-materials&quot;&gt;Marketing Materials&lt;/h1&gt;
 &lt;p&gt;I’ve produced other materials such as an email template, trifold brochure, Google slide template, and conference poster.&lt;/p&gt;

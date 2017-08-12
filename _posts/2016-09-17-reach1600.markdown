@@ -36,7 +36,7 @@ I started some quick sketches on paper to get ideas flowing, then started creati
 # Final logo and colors
 The director ended up liking the alternative version of the second logo the most, using the first color palette. So I refined it a bit more, and finalized on this design:
 
-![Final](/assets/Reach_1600_final_logo.png)
+<p style="text-align: center;"><img src="/assets/Reach_1600_final_logo.png" alt="Final logo for Reach 1600" style="margin-top: 1em;"></p>
 
 
 # Marketing Materials
