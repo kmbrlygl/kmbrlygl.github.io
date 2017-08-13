@@ -6,14 +6,14 @@ Big thanks to [a super cool] **Kat** for writing this [Medium post](https://medi
 
 ## To-Dos
 
-- Reduce line width for better readability
- - Explore different layouts of images and text to find a balance
-- **BACK button**
-- Optimize all images for web
+- ~~**BACK button**~~ 8/13
+- Optimize all images for web (ongoing)
 - CSS
  - Revisit button style(s)
  - Reconsider header font (sans serif)
  - Clean up CSS files
 - 7/24/17: Update new projects
- - Reach 1600's Prize Winning Poster
+ - ~~Reach 1600's Prize Winning Poster~~ 8/12
  - Hacking for Humanity: Please More Self Care
+- Clean up ugly code on...
+ - Hand lettering post
