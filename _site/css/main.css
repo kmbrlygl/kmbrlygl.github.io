@@ -220,6 +220,9 @@ pre {
   float: left;
   padding: 0 0 1.15em 0; }
 
+/**
+* buttons galore
+**/
 button {
   background-color: #fdfdfd;
   border: 1px solid #2E5E5A;
@@ -238,6 +241,9 @@ button:hover {
   background-color: #5cafa8;
   border: 1px solid #5cafa8;
   color: white; }
+
+.more-projects {
+  font-size: 1.2em; }
 
 /**
  * Videos

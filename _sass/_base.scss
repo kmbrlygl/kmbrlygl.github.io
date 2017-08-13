@@ -283,6 +283,9 @@ pre {
    padding: 0 0 $spacing-unit 0;
  }
 
+ /**
+ * buttons galore
+ **/
  button
  {
     background-color: $background-color;
@@ -302,6 +305,10 @@ button:hover {
     background-color: $brand-color-light;
     border: 1px solid $brand-color-light;
     color: white;
+}
+.more-projects
+ {
+    font-size: 1.2em;
 }
 
 /**
