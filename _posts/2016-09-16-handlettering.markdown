@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hand lettering"
-date:   2016-09-13 23:31:49 -0700
+date:   2016-09-16 23:40:49 -0700
 categories: Lettering
 thumbnail: assets/handlettering_thumb.jpg
 caption: "Select hand lettering that I've been practicing since 2014."
