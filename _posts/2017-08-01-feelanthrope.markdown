@@ -21,6 +21,11 @@ Feelanthrope offers digital marketing services and is based in San Diego, CA. Al
 
 ## Mood Board
 
+The client wanted to incorporate vibrant colors and triangular shapes to achieve a mark that's reflective of her brand and aesthetic.
+<div style="width: 110%; margin-left: -2em;" markdown="1">
+![All Together User Storyboard](/assets/feelanthrope-inspo.jpg)
+</div>
+
 [//]: # (![Feelanthrope Inspiration ](/assets/fa_inspo1.jpg)
 [//]: # (![Feelanthrope Inspiration ](/assets/fa_inspo2.jpg)
 [//]: # (![Feelanthrope Inspiration ](/assets/fa_inspo3.jpg)
@@ -28,3 +33,8 @@ Feelanthrope offers digital marketing services and is based in San Diego, CA. Al
 [//]: # (![Feelanthrope Color Palette ](/assets/fa_palette.jpg)
 
 ## Final Logo
+
+Feelanthrope will be launching in 2018.
+
+<p style="text-align: center;"><img src="/assets/feelanthrope_stacked_color.png" alt="Feelanthrope logo" style="margin-top: 1em;"></p>
+
