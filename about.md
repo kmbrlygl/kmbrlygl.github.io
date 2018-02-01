@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Visual designer – <br> Aspiring letterer – <br> Former Navy brat –
 
-<a href="/assets/klosenara-2017-resume.pdf">Résumé</a>
+<a href="/assets/klosenara-2018-resume.pdf">Résumé</a>
 
 Kimberly Gail is a visual designer looking to find her niche in the design world. She's interested in all facets of design—from lettering, typography, layouts, user research—anything and everything pushing the boundaries of her capabilities or influencing change for the better.
 
