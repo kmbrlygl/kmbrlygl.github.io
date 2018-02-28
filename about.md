@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="/images/beetz_bykim.jpg" alt="about">
 
-## Visual designer – <br> Aspiring letterer – <br> Former Navy brat –
+## Visual designer – <br> Lettering hobbyist – <br> Former Navy brat –
 
 <a href="/assets/klosenara-2018-resume.pdf">Résumé</a>
 
