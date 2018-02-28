@@ -16,7 +16,7 @@ Growing up as a Navy brat, she attributes 'home' to more than once place. She wa
 
 [//]:On the right, she sits (with terrible posture) pensively gazing into the English countryside.
 
-Off duty, she's either rushing off to catch a live show, dropping the sickest beets at her local farmer's market (see photo), practicing her French, <s>lifting weights</s> eating dollar tacos at Jalapeño&rsquo;s on Tuesdays, concocting a pitcher of sangria, or catching up on her favorite TV shows.
+Off duty, she's either rushing off to catch a live show 🤟, dropping the sickest beets at her local farmer's market (see photo ☝️), practicing her French 🇫🇷, <s>lifting weights</s> eating dollar tacos 🌮 at Jalapeño&rsquo;s, concocting a pitcher of sangria 🍷, or catching up on her favorite TV shows 📺.
 
 Thanks for reading!
 
