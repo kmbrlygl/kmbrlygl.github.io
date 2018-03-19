@@ -15,7 +15,9 @@ To foster my design curiosities, I practiced hand lettering in my free time. It 
 
 # Instagram: [Things My Hands Create](https://www.instagram.com/thingsmyhandscreate/ "Illustration Instagram Account") 👋🏼
 
-<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/6818e09368c15e9495f734ed9ea643da.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+<!-- SnapWidget -->
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/521596" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
 
 [//]: ![lettering top](/assets/lettering/vibes.jpg)
 [//]: ![lettering top](/assets/lettering/baroness.jpg)
