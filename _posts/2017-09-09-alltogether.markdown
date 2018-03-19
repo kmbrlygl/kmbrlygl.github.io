@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "All Together Mobile App"
-date:   2017-01-09 19:31:49 -0700
+date:   2017-09-09 19:31:49 -0700
 categories: UI/UX
 thumbnail: assets/allt_thumb.jpg
 caption: "All Together is an event planning mobile app that helps bring people together in an fun, easy, and organized way."

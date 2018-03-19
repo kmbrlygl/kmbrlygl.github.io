@@ -6,46 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Mar 2018 23:44:28 -0700</pubDate>
-    <lastBuildDate>Sun, 18 Mar 2018 23:44:28 -0700</lastBuildDate>
+    <pubDate>Sun, 18 Mar 2018 23:45:55 -0700</pubDate>
+    <lastBuildDate>Sun, 18 Mar 2018 23:45:55 -0700</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
-    
-      <item>
-        <title>Feelanthrope Branding</title>
-        <description>&lt;h2 id=&quot;role&quot;&gt;Role&lt;/h2&gt;
-
-&lt;p&gt;Logo design&lt;/p&gt;
-
-&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
-
-&lt;p&gt;Feelanthrope offers digital marketing services and is based in San Diego, CA. Ally Celones, the founder of Feelanthrope, reached out to me to create a logo that capture the traits she wanted her brand to convey:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;authentic, caring, smart, adaptable, adventurous&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;mood-board&quot;&gt;Mood Board&lt;/h2&gt;
-
-&lt;p&gt;The client wanted to incorporate vibrant colors and triangular shapes to achieve a mark that’s reflective of her brand and aesthetic.&lt;/p&gt;
-&lt;div style=&quot;width: 110%; margin-left: -2em;&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/assets/feelanthrope-inspo.jpg&quot; alt=&quot;All Together User Storyboard&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;final-logo&quot;&gt;Final Logo&lt;/h2&gt;
-
-&lt;p&gt;Feelanthrope will be launching in 2018.&lt;/p&gt;
-
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/assets/feelanthrope_stacked_color.png&quot; alt=&quot;Feelanthrope logo&quot; style=&quot;margin-top: 1em;&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 01 Aug 2017 19:31:49 -0700</pubDate>
-        <link>http://localhost:4000/work/feelanthrope/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/feelanthrope/</guid>
-        
-        
-        <category>branding</category>
-        
-      </item>
     
       <item>
         <title>All Together Mobile App</title>
@@ -167,12 +130,49 @@
 &lt;h2 id=&quot;take-away&quot;&gt;Take Away&lt;/h2&gt;
 &lt;p&gt;My biggest takeaway from this course was how the product design process is not linear. There were many times where I had to go back to previous steps and do more user testing to help validate my design decisions. In doing so, stepping back enabled me to take confident leaps forward. It showed me how iteration (aka failing often) is key to creating a successful digital app that is truly user-centered.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 09 Jan 2017 18:31:49 -0800</pubDate>
+        <pubDate>Sat, 09 Sep 2017 19:31:49 -0700</pubDate>
         <link>http://localhost:4000/work/alltogether/</link>
         <guid isPermaLink="true">http://localhost:4000/work/alltogether/</guid>
         
         
         <category>UI/UX</category>
+        
+      </item>
+    
+      <item>
+        <title>Feelanthrope Branding</title>
+        <description>&lt;h2 id=&quot;role&quot;&gt;Role&lt;/h2&gt;
+
+&lt;p&gt;Logo design&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Feelanthrope offers digital marketing services and is based in San Diego, CA. Ally Celones, the founder of Feelanthrope, reached out to me to create a logo that capture the traits she wanted her brand to convey:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;authentic, caring, smart, adaptable, adventurous&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;mood-board&quot;&gt;Mood Board&lt;/h2&gt;
+
+&lt;p&gt;The client wanted to incorporate vibrant colors and triangular shapes to achieve a mark that’s reflective of her brand and aesthetic.&lt;/p&gt;
+&lt;div style=&quot;width: 110%; margin-left: -2em;&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/feelanthrope-inspo.jpg&quot; alt=&quot;All Together User Storyboard&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;final-logo&quot;&gt;Final Logo&lt;/h2&gt;
+
+&lt;p&gt;Feelanthrope will be launching in 2018.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/assets/feelanthrope_stacked_color.png&quot; alt=&quot;Feelanthrope logo&quot; style=&quot;margin-top: 1em;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 01 Aug 2017 19:31:49 -0700</pubDate>
+        <link>http://localhost:4000/work/feelanthrope/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/feelanthrope/</guid>
+        
+        
+        <category>branding</category>
         
       </item>
     
