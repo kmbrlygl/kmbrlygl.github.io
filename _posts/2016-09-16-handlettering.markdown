@@ -13,10 +13,12 @@ I began to take up hand lettering at the end of 2014, after taking a study abroa
 
 To foster my design curiosities, I practiced hand lettering in my free time. It helped me tremendously as a creative, having to go back to basics and putting pen to paper. It allowed me to tap into creativity in a different way, and broke up the monotony of being in front of a computer. Since then, I’ve been incorporating it into my work to add a personable touch. I’ve produced some of my designs onto textiles and cards, and I even taught a small workshop on art-deco style hand lettered cards in 2015.
 
-# I post somewhat regularly on my instagram: [things my hands create](https://www.instagram.com/thingsmyhandscreate/ "Instagram")
+# Instagram: [Things My Hands Create](https://www.instagram.com/thingsmyhandscreate/ "Illustration Instagram Account") 👋🏼
 
-![lettering top](/assets/lettering/vibes.jpg)
-![lettering top](/assets/lettering/baroness.jpg)
-![lettering bottom](/assets/lettering/butter.jpg)
-![lettering bottom](/assets/lettering/outdoor.jpg)
-![lettering bottom](/assets/lettering/sick.jpg)
+<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/6818e09368c15e9495f734ed9ea643da.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+
+[//]: ![lettering top](/assets/lettering/vibes.jpg)
+[//]: ![lettering top](/assets/lettering/baroness.jpg)
+[//]: ![lettering bottom](/assets/lettering/butter.jpg)
+[//]: ![lettering bottom](/assets/lettering/outdoor.jpg)
+[//]: ![lettering bottom](/assets/lettering/sick.jpg)
