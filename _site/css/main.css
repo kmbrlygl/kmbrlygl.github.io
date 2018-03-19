@@ -136,10 +136,9 @@ blockquote {
   font-style: italic;
   font-weight: 400;
   color: #2E5E5A;
-  border-left: 0px solid #e7ecec;
   padding-left: 0.575em;
-  font-size: 1.5em;
-  margin-bottom: 20px; }
+  font-size: 1.3em;
+  margin: 20px 0 20px 0; }
   blockquote > :last-child {
     margin-bottom: 0; }
 
