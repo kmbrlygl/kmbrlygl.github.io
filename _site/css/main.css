@@ -10,7 +10,7 @@ body, p, blockquote, pre, dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 19px/1.5 "Asap", sans-serif;
+  font: 400 19px/1.5 "asap", sans-serif;
   color: #003B36;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -92,7 +92,7 @@ li > ol {
   margin-bottom: 0; }
 
 ul.work {
-  font-family: "Asap", sans-serif;
+  font-family: "asap", sans-serif;
   font-weight: 400;
   font-size: 19px;
   font-style: italic;
@@ -111,19 +111,22 @@ h1, h2, h3, h4, h5, h6, button {
   font-family: "p22-mackinac-pro", Georgia, serif;
   font-weight: 500;
   margin-top: 2.3em;
-  margin-bottom: 1.15em; }
+  margin-bottom: 1.15em;
+  line-height: 1.25; }
 
 /**
  * Links
  */
 a {
-  color: #2E5E5A;
+  color: #47918b;
   text-decoration: none; }
   a:visited {
-    color: #152b29; }
+    color: #2E5E5A; }
   a:hover {
-    color: #003B36;
-    text-decoration: underline; }
+    color: #47918b;
+    font-weight: 700;
+    text-decoration: underline;
+    letter-spacing: .005rem; }
 
 /**
  * Blockquotes
@@ -263,7 +266,7 @@ button:hover {
   position: relative; }
 
 .site-title {
-  font-family: "Asap", sans-serif;
+  font-family: "asap", sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 56px;

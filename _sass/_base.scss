@@ -135,6 +135,7 @@ h1, h2, h3, h4, h5, h6, button {
     font-weight: $headers-font-weight;
     margin-top: $spacing-unit * 2;
     margin-bottom: $spacing-unit;
+    line-height: $headers-line-height;
 }
 
 
@@ -143,16 +144,18 @@ h1, h2, h3, h4, h5, h6, button {
  * Links
  */
 a {
-    color: $brand-color;
+    color: lighten($brand-color, 15%);
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $brand-color;
     }
 
     &:hover {
-        color: $text-color;
+        color: lighten($brand-color, 15%);
+        font-weight: 700;
         text-decoration: underline;
+        letter-spacing: .005rem;
     }
 }
 
