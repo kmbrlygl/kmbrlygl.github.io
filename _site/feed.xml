@@ -6,13 +6,80 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Apr 2018 18:08:09 -0700</pubDate>
-    <lastBuildDate>Fri, 13 Apr 2018 18:08:09 -0700</lastBuildDate>
+    <pubDate>Thu, 19 Apr 2018 01:32:24 -0700</pubDate>
+    <lastBuildDate>Thu, 19 Apr 2018 01:32:24 -0700</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
+        <title>W. Margaron Branding</title>
+        <description>&lt;h2 id=&quot;services&quot;&gt;Services&lt;/h2&gt;
+
+&lt;p&gt;Branding research, logo design, label design&lt;/p&gt;
+
+&lt;h2 id=&quot;background-whats-a-margaron&quot;&gt;Background: What’s a Margaron?&lt;/h2&gt;
+
+&lt;p&gt;W. Margaron is the brand of a macaron business based in Davis, CA. They specialize in a unique macaron called the “margaron.” It’s not your typical French macaron—it’s bigger and highly textured, has no artificial or added coloring, less refined sugar, and is made with locally sourced and organic ingredients. Margaret (the owner) reached out to me help her with her branding and improve her existing logo identity.&lt;/p&gt;
+
+&lt;p&gt;Margaron and the PREVIOUS logo (not designed by me):&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/assets/wmargaron/old-wm-logo.jpg&quot; alt=&quot;Caption: Showcasing a margaron (highly textured macaron) and a gift box containing the old logo.&quot; style=&quot;width: 50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ideation--research&quot;&gt;Ideation &amp;amp; Research&lt;/h2&gt;
+
+&lt;h3 id=&quot;problem&quot;&gt;Problem:&lt;/h3&gt;
+
+&lt;p&gt;Margaret wanted a logo that captured the look and the spirit of a “margaron.”&lt;/p&gt;
+
+&lt;p&gt;After meeting with her, I had Margaret fill out a questionnaire to define her brand personality and business goals. Once that was clarified, we started to develop the branding together.&lt;/p&gt;
+
+&lt;p&gt;Brand traits:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Distinctive, joyful, thoughtful, inspired, high quality, transparent&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;audience&quot;&gt;Audience:&lt;/h3&gt;
+
+&lt;p&gt;Foodies who value the quality of ingredients (organic, locally sourced) or value the quality of the eating experience. Most have been women in their 20’s to 60’s, and many are mothers who are getting this as a special treat for themselves. Or they are gluten-free and want something better than the standard gluten-free desserts.&lt;/p&gt;
+
+&lt;h3 id=&quot;nailing-down-the-mood-board&quot;&gt;Nailing Down the Mood Board:&lt;/h3&gt;
+
+&lt;p&gt;After studying local competitors and existing brands, I began to develop a vision for the logo direction so I start putting together a mood board. Margaret wanted me to focus on her existing color scheme of purple, green and burnt orange—vibrant colors derived from nature, so I kept that in mind.&lt;/p&gt;
+
+&lt;p&gt;It took two tries to get the mood board right, but we were able to conjure the right feeling and aesthetic she wanted me to design for. Some design elements from the mood board:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/wmargaron/moodboard-elements.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;final-logo-design&quot;&gt;Final Logo Design&lt;/h2&gt;
+
+&lt;p&gt;The final logo chosen captured the quirky and charming shapes of the margarons paired with a serif-type whose terminals mimicked the many curving shapes found in a margaron.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/wmargaron/wmargaron-final-logo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;label-design&quot;&gt;Label design&lt;/h2&gt;
+
+&lt;p&gt;These labels will go on the gift boxes that margarons are stored in when bought. The bottom is a flap that goes over the opening of the box and extends to the front.&lt;/p&gt;
+
+&lt;div style=&quot;width: 125%; margin-left: -5em;&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/wmargaron/wmargaron-labels.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 17 Apr 2018 19:31:49 -0700</pubDate>
+        <link>http://localhost:4000/work/wmargaron/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/wmargaron/</guid>
+        
+        
+        <category>Branding,</category>
+        
+        <category>Logo</category>
+        
+        <category>Design</category>
+        
+      </item>
+    
+      <item>
         <title>All Together Mobile App</title>
-        <description>&lt;h2 id=&quot;role&quot;&gt;Role&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;services&quot;&gt;Services&lt;/h2&gt;
 &lt;p&gt;User research, user interface, rapid prototyping and wireframing&lt;/p&gt;
 
 &lt;video height=&quot;450px&quot; autoplay=&quot;&quot; loop=&quot;&quot; class=&quot;VidFloatR&quot;&gt;

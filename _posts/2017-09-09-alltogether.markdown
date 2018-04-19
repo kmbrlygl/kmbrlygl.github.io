@@ -8,7 +8,7 @@ caption: "All Together is an event planning mobile app that helps bring people t
 type: "UI/UX"
 intro: "All Together helps bring people together in an fun, easy, and organized way."
 ---
-## Role
+## Services
 User research, user interface, rapid prototyping and wireframing
 
 <video height="450px" autoplay loop class="VidFloatR">
