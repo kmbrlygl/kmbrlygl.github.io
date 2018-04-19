@@ -38,4 +38,7 @@ I really enjoyed the learning process behind using new software, learning new sk
 
 # Spring 2015
 ![OBC Catalog Cover](/assets/OBC_cover.jpg)
+
+<div style="width: 125%; margin-left: -5em;" markdown="1">
 ![OBC Catalog Spread](/assets/OBC_spread_1.jpg)
+</div>
