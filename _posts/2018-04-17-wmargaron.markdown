@@ -51,7 +51,7 @@ The final logo chosen captured the quirky and charming shapes of the margarons p
 
 ![](/assets/wmargaron/wmargaron-final-logo.png)
 
-## Label design
+## Label Design
 
 These labels will go on the gift boxes that margarons are stored in when bought. The bottom is a flap that goes over the opening of the box and extends to the front.
 
