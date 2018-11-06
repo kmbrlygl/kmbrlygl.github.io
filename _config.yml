@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kmbrlygl.github.io" # the base hostname & protocol for your site
 twitter_username: kmbrlygl
 github_username: kmbrlygl
-instagram_username: thingsmyhandscreate
+instagram_username: thingsmyhands
 
 #Project url
 permalink: /work/:title/
